@@ -1,0 +1,979 @@
+{
+  "documentSentiment": {
+    "magnitude": 45.4,
+    "score": -0.3
+  },
+  "language": "en",
+  "sentences": [
+    {
+      "text": {
+        "content": "The corona is stupidRT @thegarance: The biggest Asian neighborhood in NYC has had one if the lowest rates of covid-19.",
+        "beginOffset": 0
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "Why?",
+        "beginOffset": 119
+      },
+      "sentiment": {
+        "magnitude": 0.5,
+        "score": -0.5
+      }
+    },
+    {
+      "text": {
+        "content": "Masks &amp; early warning from relative…RT @TheJessieWoo: Corona really forced #RHOA into a zoom reunion 😫RT @thegarance: The biggest Asian neighborhood in NYC has had one if the lowest rates of covid-19.",
+        "beginOffset": 124
+      },
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": -0.2
+      }
+    },
+    {
+      "text": {
+        "content": "Why?",
+        "beginOffset": 334
+      },
+      "sentiment": {
+        "magnitude": 0.5,
+        "score": -0.5
+      }
+    },
+    {
+      "text": {
+        "content": "Masks &amp; early warning from relative…Also @TMZ ran a BREAKING news story that Corona can be absorbed into eyes or spread through tears.",
+        "beginOffset": 339
+      },
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": -0.1
+      }
+    },
+    {
+      "text": {
+        "content": "Everyone go look up “droplet contact” right now.",
+        "beginOffset": 480
+      },
+      "sentiment": {
+        "magnitude": 0.5,
+        "score": -0.5
+      }
+    },
+    {
+      "text": {
+        "content": "I can’t take this anymore.",
+        "beginOffset": 533
+      },
+      "sentiment": {
+        "magnitude": 0.7,
+        "score": -0.7
+      }
+    },
+    {
+      "text": {
+        "content": "Anywhere with a porous mucous membrane can absorb things.",
+        "beginOffset": 562
+      },
+      "sentiment": {
+        "magnitude": 0.4,
+        "score": 0.4
+      }
+    },
+    {
+      "text": {
+        "content": "Jesus.RT @bennyjohnson: BREAKING: According to German Intelligence (BND) during a phone call, Xi Jinping asked @WHO Director @DrTedros to withhol…RT @bennyjohnson: BREAKING: According to German Intelligence (BND) during a phone call, Xi Jinping asked @WHO Director @DrTedros to withhol…RT @TruthRaiderHQ: The president of Tanzania didn't believe the #WHO was being honest with their tests results.",
+        "beginOffset": 620
+      },
+      "sentiment": {
+        "magnitude": 0.5,
+        "score": -0.5
+      }
+    },
+    {
+      "text": {
+        "content": "SO... he outfoxed them.…Imagine Saying You Hopr I Catch Corona Just For Ya Family Member To Die From That Shit 😂😂 KARMA NO BADMIND SHALL PROSPER@Jeremy8911 I hear they are immune to CoronaRT @bennyjohnson: BREAKING: According to German Intelligence (BND) during a phone call, Xi Jinping asked @WHO Director @DrTedros to withhol…RT @bennyjohnson: BREAKING: According to German Intelligence (BND) during a phone call, Xi Jinping asked @WHO Director @DrTedros to withhol…I still can't believe NYC faked the most COVID-19 cases for Corona, Queens.",
+        "beginOffset": 1024
+      },
+      "sentiment": {
+        "magnitude": 0.7,
+        "score": -0.7
+      }
+    },
+    {
+      "text": {
+        "content": "Source: NY Times https://t.co/3CgIuLttMHRT @AWKWORDrap: @AraquelBloss @NhCardona603 @speciesamused @karish4va @jamie_agust @HeenaLotus @PepperOceanna @adrielhampton @EclecticRadic…RT @TheJessieWoo: Corona really forced #RHOA into a zoom reunion 😫RT @huveysi: Silivri’de 7 kişilik koğuşlarda 30 küsür kişi kalıyor.",
+        "beginOffset": 1580
+      },
+      "sentiment": {
+        "magnitude": 0.3,
+        "score": -0.3
+      }
+    },
+    {
+      "text": {
+        "content": "Corona’yı özellikle yayıyorlar.",
+        "beginOffset": 1908
+      },
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": 0.2
+      }
+    },
+    {
+      "text": {
+        "content": "Şu anda 8 kişi yoğun bakımda. 191 kişi…RT @TheJessieWoo: Corona really forced #RHOA into a zoom reunion 😫@JoeySalads Corona virusA nine-year-old Kenyan boy who invented a safer way to wash hands.",
+        "beginOffset": 1945
+      },
+      "sentiment": {
+        "magnitude": 0.4,
+        "score": -0.4
+      }
+    },
+    {
+      "text": {
+        "content": "#Covid_19 #CoronaVirusUpdates #StayHomeStaySafe #Erbil #usaCoronavirus #Corona #Iraq #TwitterKurds  \n#فيروس_كورونا \n#فيروس_كورونا_الجديد \n#كورونا_الجديد\n#خليك_في_البيتَ \n#العراق https://t.co/NH3dD9DEVTI walked a block to the store just now and was mocked *twice* for wearing a mask.",
+        "beginOffset": 2152
+      },
+      "sentiment": {
+        "magnitude": 0.7,
+        "score": -0.7
+      }
+    },
+    {
+      "text": {
+        "content": "In #nyc.",
+        "beginOffset": 2493
+      },
+      "sentiment": {
+        "magnitude": 0.7,
+        "score": 0.7
+      }
+    },
+    {
+      "text": {
+        "content": "Unreal.",
+        "beginOffset": 2503
+      },
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": 0.2
+      }
+    },
+    {
+      "text": {
+        "content": "#coronaAnd while I am at it, I don't understand how his earlier mandate for NY nursing homes to take corona patients only made a weak appearance in the media and wasn't on the front page of all major NY papers.",
+        "beginOffset": 2512
+      },
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": -0.8
+      }
+    },
+    {
+      "text": {
+        "content": "If I missed it, happy to be wrong.RT @TruthRaiderHQ: The president of Tanzania didn't believe the #WHO was being honest with their tests results.",
+        "beginOffset": 2723
+      },
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": 0.2
+      }
+    },
+    {
+      "text": {
+        "content": "SO... he outfoxed them.…@mmpadellan Woah, there haven’t been 80k Coronavirus deaths in this country.",
+        "beginOffset": 2871
+      },
+      "sentiment": {
+        "magnitude": 0.5,
+        "score": -0.5
+      }
+    },
+    {
+      "text": {
+        "content": "We’re at 47,128 per the CDC.",
+        "beginOffset": 2976
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "The MSM is flat out lying.",
+        "beginOffset": 3007
+      },
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": -0.8
+      }
+    },
+    {
+      "text": {
+        "content": "They are adding seasonal pneumonia &amp; influenza deaths to the Corona numbers.",
+        "beginOffset": 3034
+      },
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": -0.2
+      }
+    },
+    {
+      "text": {
+        "content": "See for yourself.",
+        "beginOffset": 3115
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "https://t.co/hdQhX37nrMRT @bennyjohnson: BREAKING: According to German Intelligence (BND) during a phone call, Xi Jinping asked @WHO Director @DrTedros to withhol…Silivri’de 7 kişilik koğuşlarda 30 küsür kişi kalıyor.",
+        "beginOffset": 3133
+      },
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": -0.2
+      }
+    },
+    {
+      "text": {
+        "content": "Corona’yı özellikle yayıyorlar.",
+        "beginOffset": 3362
+      },
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": 0.2
+      }
+    },
+    {
+      "text": {
+        "content": "Şu anda 8 kişi yoğun bakımda. 191 kişi enfekte olmuş.",
+        "beginOffset": 3399
+      },
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": 0.1
+      }
+    },
+    {
+      "text": {
+        "content": "Koğuşlar arası kasten nakil yaparak hastalığı yayıyorlar.",
+        "beginOffset": 3459
+      },
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": 0.2
+      }
+    },
+    {
+      "text": {
+        "content": "Türkiye’de insanlık can çekişiyor.",
+        "beginOffset": 3524
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "Noyan’ın dediğini @adalet_bakanlik mı yapıyor?Update: Still haven’t known/met a single person who’s had someone die from corona here in metro NY.",
+        "beginOffset": 3565
+      },
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": -0.2
+      }
+    },
+    {
+      "text": {
+        "content": "Not even a Facebook post.",
+        "beginOffset": 3721
+      },
+      "sentiment": {
+        "magnitude": 0.7,
+        "score": -0.7
+      }
+    },
+    {
+      "text": {
+        "content": "I got to start playing lotto.RT @thegarance: The biggest Asian neighborhood in NYC has had one if the lowest rates of covid-19.",
+        "beginOffset": 3748
+      },
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": 0.2
+      }
+    },
+    {
+      "text": {
+        "content": "Why?",
+        "beginOffset": 3876
+      },
+      "sentiment": {
+        "magnitude": 0.5,
+        "score": -0.5
+      }
+    },
+    {
+      "text": {
+        "content": "Masks &amp; early warning from relative…RT @bennyjohnson: BREAKING: According to German Intelligence (BND) during a phone call, Xi Jinping asked @WHO Director @DrTedros to withhol…RT @profwolff: Billionaire president orders underpaid meat plant workers into unsafe workplaces where Corona has already killed some.",
+        "beginOffset": 3881
+      },
+      "sentiment": {
+        "magnitude": 0.5,
+        "score": -0.5
+      }
+    },
+    {
+      "text": {
+        "content": "US…RT @TruthRaiderHQ: The president of Tanzania didn't believe the #WHO was being honest with their tests results.",
+        "beginOffset": 4201
+      },
+      "sentiment": {
+        "magnitude": 0.6,
+        "score": -0.6
+      }
+    },
+    {
+      "text": {
+        "content": "SO... he outfoxed them.…RT @thegarance: The biggest Asian neighborhood in NYC has had one if the lowest rates of covid-19.",
+        "beginOffset": 4320
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "Why?",
+        "beginOffset": 4445
+      },
+      "sentiment": {
+        "magnitude": 0.5,
+        "score": -0.5
+      }
+    },
+    {
+      "text": {
+        "content": "Masks &amp; early warning from relative…RT @TruthRaiderHQ: The president of Tanzania didn't believe the #WHO was being honest with their tests results.",
+        "beginOffset": 4450
+      },
+      "sentiment": {
+        "magnitude": 0.5,
+        "score": -0.5
+      }
+    },
+    {
+      "text": {
+        "content": "SO... he outfoxed them.…Inspire of corona they all hired people to come in and do their hair and makeup lol #RHOAReunionRT @TheJessieWoo: Corona really forced #RHOA into a zoom reunion 😫Day 56.",
+        "beginOffset": 4606
+      },
+      "sentiment": {
+        "magnitude": 0.4,
+        "score": -0.4
+      }
+    },
+    {
+      "text": {
+        "content": "#coronahomea .",
+        "beginOffset": 4805
+      },
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": 0.2
+      }
+    },
+    {
+      "text": {
+        "content": "#dnd #sunday #travel #charlieutravels #charlieudoesnttravel #filter #macro #macrophotography #photo #photography #blackandwhite #nycphotographer #journey #quarentine #corona https://t.co/YfVXHYCjGPRT @TheJessieWoo: Corona really forced #RHOA into a zoom reunion 😫RT @TheJessieWoo: Corona really forced #RHOA into a zoom reunion 😫RT @TheJessieWoo: Corona really forced #RHOA into a zoom reunion 😫RT @profwolff: Billionaire president orders underpaid meat plant workers into unsafe workplaces where Corona has already killed some.",
+        "beginOffset": 4820
+      },
+      "sentiment": {
+        "magnitude": 0.7,
+        "score": -0.7
+      }
+    },
+    {
+      "text": {
+        "content": "US…RT @TheJessieWoo: Corona really forced #RHOA into a zoom reunion 😫RT @TheJessieWoo: Corona really forced #RHOA into a zoom reunion 😫RT @thegarance: The biggest Asian neighborhood in NYC has had one if the lowest rates of covid-19.",
+        "beginOffset": 5360
+      },
+      "sentiment": {
+        "magnitude": 0.3,
+        "score": -0.3
+      }
+    },
+    {
+      "text": {
+        "content": "Why?",
+        "beginOffset": 5602
+      },
+      "sentiment": {
+        "magnitude": 0.5,
+        "score": -0.5
+      }
+    },
+    {
+      "text": {
+        "content": "Masks &amp; early warning from relative…RT @bennyjohnson: BREAKING: According to German Intelligence (BND) during a phone call, Xi Jinping asked @WHO Director @DrTedros to withhol…@realDonaldTrump I give up on you... you're a 5 year old brat trapped in a grown man's body.",
+        "beginOffset": 5607
+      },
+      "sentiment": {
+        "magnitude": 0.4,
+        "score": -0.4
+      }
+    },
+    {
+      "text": {
+        "content": "You screwed up this whole Corona thing and no amount of displacement you do can change that... we saw it all unfold and we're still seeing it...",
+        "beginOffset": 5884
+      },
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": -0.8
+      }
+    },
+    {
+      "text": {
+        "content": "Where are the test and tracing for every single America?RT @TheJessieWoo: Corona really forced #RHOA into a zoom reunion 😫Please watch the brave and heartwarming story of Ms. Araujo one of our ⁦@MsBzSuperHeroes⁩ parents... https://t.co/9kZk4N2VPC@TCNELLYbackup Seriously.",
+        "beginOffset": 6029
+      },
+      "sentiment": {
+        "magnitude": 0.4,
+        "score": -0.4
+      }
+    },
+    {
+      "text": {
+        "content": "Shawn Davis mom and I had it planned out for after the spring game to have the boys a good home cooked BBQ but CORONA RUDELY INTERRUPTED US!!!!",
+        "beginOffset": 6308
+      },
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": 0.2
+      }
+    },
+    {
+      "text": {
+        "content": "So just stay tunedRT @TheJessieWoo: Corona really forced #RHOA into a zoom reunion 😫RT @TheJessieWoo: Corona really forced #RHOA into a zoom reunion 😫RT @bennyjohnson: BREAKING: According to German Intelligence (BND) during a phone call, Xi Jinping asked @WHO Director @DrTedros to withhol…RT @thegarance: The biggest Asian neighborhood in NYC has had one if the lowest rates of covid-19.",
+        "beginOffset": 6453
+      },
+      "sentiment": {
+        "magnitude": 0.4,
+        "score": -0.4
+      }
+    },
+    {
+      "text": {
+        "content": "Why?",
+        "beginOffset": 6850
+      },
+      "sentiment": {
+        "magnitude": 0.5,
+        "score": -0.5
+      }
+    },
+    {
+      "text": {
+        "content": "Masks &amp; early warning from relative…RT @stengel: Two months ago, South Korea &amp; the US had the same number of corona deaths.",
+        "beginOffset": 6855
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "Today South Korea has had a few hundred deaths and…Corona really forced #RHOA into a zoom reunion 😫RT @profwolff: Billionaire president orders underpaid meat plant workers into unsafe workplaces where Corona has already killed some.",
+        "beginOffset": 6989
+      },
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": -0.8
+      }
+    },
+    {
+      "text": {
+        "content": "US…@chiddybangy * pretty sure you had something ready but with Corona out in the streets she’s had to push it back.",
+        "beginOffset": 7229
+      },
+      "sentiment": {
+        "magnitude": 0.5,
+        "score": -0.5
+      }
+    },
+    {
+      "text": {
+        "content": "she’s long overdue but she had a feature on a new Usher song though.Don’t they know the ice cream machine is ALWAYS broken?",
+        "beginOffset": 7349
+      },
+      "sentiment": {
+        "magnitude": 0.4,
+        "score": -0.4
+      }
+    },
+    {
+      "text": {
+        "content": "This isn’t just a corona thing...",
+        "beginOffset": 7477
+      },
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": 0.2
+      }
+    },
+    {
+      "text": {
+        "content": "https://t.co/nFGMReqGwNRT @profwolff: Billionaire president orders underpaid meat plant workers into unsafe workplaces where Corona has already killed some.",
+        "beginOffset": 7513
+      },
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": -0.8
+      }
+    },
+    {
+      "text": {
+        "content": "US…Scared of corona but smoking cigarettes 🤨RT @thegarance: The biggest Asian neighborhood in NYC has had one if the lowest rates of covid-19.",
+        "beginOffset": 7672
+      },
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": -0.2
+      }
+    },
+    {
+      "text": {
+        "content": "Why?",
+        "beginOffset": 7820
+      },
+      "sentiment": {
+        "magnitude": 0.5,
+        "score": -0.5
+      }
+    },
+    {
+      "text": {
+        "content": "Masks &amp; early warning from relative…RT @thegarance: The biggest Asian neighborhood in NYC has had one if the lowest rates of covid-19.",
+        "beginOffset": 7825
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "Why?",
+        "beginOffset": 7966
+      },
+      "sentiment": {
+        "magnitude": 0.5,
+        "score": -0.5
+      }
+    },
+    {
+      "text": {
+        "content": "Masks &amp; early warning from relative…RT @1TSH1: Death Counts are a Fraud: \n25 to 50% of ALL Coronavirus Deaths are in Nursing Homes.",
+        "beginOffset": 7971
+      },
+      "sentiment": {
+        "magnitude": 0.4,
+        "score": -0.4
+      }
+    },
+    {
+      "text": {
+        "content": "State death counts questioned.",
+        "beginOffset": 8109
+      },
+      "sentiment": {
+        "magnitude": 0.3,
+        "score": -0.3
+      }
+    },
+    {
+      "text": {
+        "content": "Model lowers…@patriot_of_Amer I see masks on every counter now and they are all made in China!!!!",
+        "beginOffset": 8140
+      },
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": -0.2
+      }
+    },
+    {
+      "text": {
+        "content": "F that!!",
+        "beginOffset": 8240
+      },
+      "sentiment": {
+        "magnitude": 0.7,
+        "score": -0.7
+      }
+    },
+    {
+      "text": {
+        "content": "I'll catch Corona before I buy one!",
+        "beginOffset": 8249
+      },
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": 0.2
+      }
+    },
+    {
+      "text": {
+        "content": "Simply put!!!RT @thegarance: The biggest Asian neighborhood in NYC has had one if the lowest rates of covid-19.",
+        "beginOffset": 8285
+      },
+      "sentiment": {
+        "magnitude": 0.3,
+        "score": 0.3
+      }
+    },
+    {
+      "text": {
+        "content": "Why?",
+        "beginOffset": 8397
+      },
+      "sentiment": {
+        "magnitude": 0.5,
+        "score": -0.5
+      }
+    },
+    {
+      "text": {
+        "content": "Masks &amp; early warning from relative…To my point about the missing logic.",
+        "beginOffset": 8402
+      },
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": -0.1
+      }
+    },
+    {
+      "text": {
+        "content": "Only NOW he is reversing the earlier baffling mandate for NY nursing homes to accept suspected or confirmed corona patients?",
+        "beginOffset": 8481
+      },
+      "sentiment": {
+        "magnitude": 0.7,
+        "score": -0.7
+      }
+    },
+    {
+      "text": {
+        "content": "Only took this man a month and a half, in the world epicenter of the outbreak.",
+        "beginOffset": 8606
+      },
+      "sentiment": {
+        "magnitude": 0.3,
+        "score": -0.3
+      }
+    },
+    {
+      "text": {
+        "content": "https://t.co/isWmcSWuobRT @bennyjohnson: BREAKING: According to German Intelligence (BND) during a phone call, Xi Jinping asked @WHO Director @DrTedros to withhol…RT @thegarance: The biggest Asian neighborhood in NYC has had one if the lowest rates of covid-19.",
+        "beginOffset": 8685
+      },
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": -0.2
+      }
+    },
+    {
+      "text": {
+        "content": "Why?",
+        "beginOffset": 8949
+      },
+      "sentiment": {
+        "magnitude": 0.5,
+        "score": -0.5
+      }
+    },
+    {
+      "text": {
+        "content": "Masks &amp; early warning from relative…@madisonnoellew @alisoneroman Alison promoted eating at Asian restaurants when Corona was hitting the country because people were scared, for weeks, she's not a damn racist, if she said the same things about two white chicks you'd never chime in.Nice try.",
+        "beginOffset": 8954
+      },
+      "sentiment": {
+        "magnitude": 0.6,
+        "score": -0.6
+      }
+    },
+    {
+      "text": {
+        "content": "They will lose funding.They’re owned.",
+        "beginOffset": 9252
+      },
+      "sentiment": {
+        "magnitude": 0.6,
+        "score": -0.6
+      }
+    },
+    {
+      "text": {
+        "content": "She wasn’t.",
+        "beginOffset": 9292
+      },
+      "sentiment": {
+        "magnitude": 0.7,
+        "score": -0.7
+      }
+    },
+    {
+      "text": {
+        "content": "She was ethical unlike Fauci and Gallo.That has been proven.",
+        "beginOffset": 9306
+      },
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": 0.8
+      }
+    },
+    {
+      "text": {
+        "content": "Fauci caused all of these “Covid”deaths by neglecting his findings of CQ, azithromax being a cure for corona and SARS in 2005.Big pharmaceutical didn’t make $ https://t.co/iyU4XDuzhY@iambrianwright @TheKeithiest He actually just re released it this last week.",
+        "beginOffset": 9367
+      },
+      "sentiment": {
+        "magnitude": 0.7,
+        "score": -0.7
+      }
+    },
+    {
+      "text": {
+        "content": "I loved that episode and got to listen to it again on my feed.",
+        "beginOffset": 9633
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "Special things in the time of CoronaRT @bennyjohnson: BREAKING: According to German Intelligence (BND) during a phone call, Xi Jinping asked @WHO Director @DrTedros to withhol…RT @bennyjohnson: BREAKING: According to German Intelligence (BND) during a phone call, Xi Jinping asked @WHO Director @DrTedros to withhol…RT @bennyjohnson: BREAKING: According to German Intelligence (BND) during a phone call, Xi Jinping asked @WHO Director @DrTedros to withhol…RT @ALive914: The Storm is here.",
+        "beginOffset": 9696
+      },
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": -0.1
+      }
+    },
+    {
+      "text": {
+        "content": "Children are being saved.",
+        "beginOffset": 10191
+      },
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": 0.2
+      }
+    },
+    {
+      "text": {
+        "content": "Corona virus update https://t.co/mWlSKd0d2A via @YouTube@gwen52274124 @ChandlerKenil @cprinatlanta @PixelatedPupil1 @GovKemp It’s “disgusting” that you think the only thing that kills is Chinese corona.",
+        "beginOffset": 10217
+      },
+      "sentiment": {
+        "magnitude": 0.7,
+        "score": -0.7
+      }
+    },
+    {
+      "text": {
+        "content": "Step away from the piercing parlor and read a book.",
+        "beginOffset": 10428
+      },
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": 0.2
+      }
+    },
+    {
+      "text": {
+        "content": "#idiotsliveamongus #liberlismisamentaldisorderRT @snipstweets: How anyone could think Boris Johnson has done a good job in regards to corona is absolutely baffling.",
+        "beginOffset": 10481
+      },
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": -0.8
+      }
+    },
+    {
+      "text": {
+        "content": "The death toll consi…RT @RealCandaceO: Serious question.",
+        "beginOffset": 10646
+      },
+      "sentiment": {
+        "magnitude": 0.7,
+        "score": -0.7
+      }
+    },
+    {
+      "text": {
+        "content": "What do you guys think the REAL #coronavirus death toll is?",
+        "beginOffset": 10705
+      },
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": -0.8
+      }
+    },
+    {
+      "text": {
+        "content": "Under 10k?",
+        "beginOffset": 10765
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "Please make this video viral:…@daveycsgo @4sh0t @tolkienfanatic No it is not factual because most orgs want EUROPEAN tier 1 players (even if its a mix) or buy out teams straight up (i.e Flashpoint teams) or because of corona they don't have the money or willingness to commit until this blows over@chiayennealyssa Thank you Chia, corona stopped our link up but one day 🥺❤️RT @bennyjohnson: BREAKING: According to German Intelligence (BND) during a phone call, Xi Jinping asked @WHO Director @DrTedros to withhol…Corona mek no new pictures ca post , no sa dem girl ya a live inna the past 😂This is how @iammariaborges is stepping out after Corona 💥 #dahvedlevyrockingyou #aftercorona #style #fashion #slay #queen @ New York, New York https://t.co/jOV4W2gtAbRT @thegarance: The biggest Asian neighborhood in NYC has had one if the lowest rates of covid-19.",
+        "beginOffset": 10778
+      },
+      "sentiment": {
+        "magnitude": 0.4,
+        "score": -0.4
+      }
+    },
+    {
+      "text": {
+        "content": "Why?",
+        "beginOffset": 11650
+      },
+      "sentiment": {
+        "magnitude": 0.5,
+        "score": -0.5
+      }
+    },
+    {
+      "text": {
+        "content": "Masks &amp; early warning from relative…I honestly can’t believe it’s only been like 2 months of this corona bullshit it feels like it’s been a year 😭🙄RT @BoroDollazBeats: #COVID19 #cardibmemes #cardibcoronavirus #coronavirusbeat #BeatsRUs #MajorKnock #ClumsyBeats #HarlemSwagg #HarlemKnock…i barely talk to my dad’s side of the family and today my aunt from that side texted me saying how i was and when i told her i got corona she literally said “ok take care sending hugs and kisses 😘 ❤️“ like ma’am ik i sent a paragraph but you’re just gonna skip that part ?RT @Lilysaysyarf: @MollyJongFast Does C&amp;C stand for Corona and Covid Cafe?RT @thegarance: The biggest Asian neighborhood in NYC has had one if the lowest rates of covid-19.",
+        "beginOffset": 11655
+      },
+      "sentiment": {
+        "magnitude": 0.6,
+        "score": -0.6
+      }
+    },
+    {
+      "text": {
+        "content": "Why?",
+        "beginOffset": 12428
+      },
+      "sentiment": {
+        "magnitude": 0.5,
+        "score": -0.5
+      }
+    },
+    {
+      "text": {
+        "content": "Masks &amp; early warning from relative…The only plus to corona is that gas is $1.81Show me you really fire , post a pic with no filter , no make up , let’s really see the horrors of coronaRT @bennyjohnson: BREAKING: According to German Intelligence (BND) during a phone call, Xi Jinping asked @WHO Director @DrTedros to withhol…RT @thegarance: The biggest Asian neighborhood in NYC has had one if the lowest rates of covid-19.",
+        "beginOffset": 12433
+      },
+      "sentiment": {
+        "magnitude": 0.3,
+        "score": -0.3
+      }
+    },
+    {
+      "text": {
+        "content": "Why?",
+        "beginOffset": 12867
+      },
+      "sentiment": {
+        "magnitude": 0.5,
+        "score": -0.5
+      }
+    },
+    {
+      "text": {
+        "content": "Masks &amp; early warning from relative…RT @iBDWSSBM: some idiots in pasadena threw a house party during quarantine and an even bigger idiot went to the party with a cough with no…RT @modooborahae: 🐱 I felt really strange.",
+        "beginOffset": 12872
+      },
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": -0.8
+      }
+    },
+    {
+      "text": {
+        "content": "I felt like I could cry.",
+        "beginOffset": 13102
+      },
+      "sentiment": {
+        "magnitude": 0.3,
+        "score": -0.3
+      }
+    },
+    {
+      "text": {
+        "content": "We’ve suddenly become an island you know, because of a corona.",
+        "beginOffset": 13127
+      },
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": 0.2
+      }
+    },
+    {
+      "text": {
+        "content": "I hope w…@NYDailyNews Hmm last time i checked, Corona virus can prove deadly for some Corona Virus patients.Thank you so much germany for having competent citizens to shut down corona enough to continue playing football https://t.co/aqoc60F4eLSo y’all mean to tell me a nigga just STROLL into a GAYclub and then BOOM.. “new cases of new strands of corona virus???",
+        "beginOffset": 13192
+      },
+      "sentiment": {
+        "magnitude": 0.7,
+        "score": -0.7
+      }
+    },
+    {
+      "text": {
+        "content": "I actually believe it... y’all niggas ain’t got no business w that gay stuff anywayRT @bennyjohnson: BREAKING: According to German Intelligence (BND) during a phone call, Xi Jinping asked @WHO Director @DrTedros to withhol…RT @bennyjohnson: BREAKING: According to German Intelligence (BND) during a phone call, Xi Jinping asked @WHO Director @DrTedros to withhol…RT @bennyjohnson: BREAKING: According to German Intelligence (BND) during a phone call, Xi Jinping asked @WHO Director @DrTedros to withhol…@stoolpresidente @JeffBezos $AMZN prob +$20 tomorrow.",
+        "beginOffset": 13569
+      },
+      "sentiment": {
+        "magnitude": 0.7,
+        "score": -0.7
+      }
+    },
+    {
+      "text": {
+        "content": "That manager did his job son.",
+        "beginOffset": 14136
+      },
+      "sentiment": {
+        "magnitude": 0.4,
+        "score": 0.4
+      }
+    },
+    {
+      "text": {
+        "content": "Packages have to be shipped regardless of corona",
+        "beginOffset": 14166
+      },
+      "sentiment": {
+        "magnitude": 0.5,
+        "score": -0.5
+      }
+    }
+  ]
+}

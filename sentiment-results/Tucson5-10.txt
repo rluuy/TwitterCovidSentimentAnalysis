@@ -1,0 +1,819 @@
+{
+  "documentSentiment": {
+    "magnitude": 35.6,
+    "score": -0.2
+  },
+  "language": "en",
+  "sentences": [
+    {
+      "text": {
+        "content": "RT @johnkrygelski: Absolutely fascinating article about Corona Virus and the Mexican cartels...",
+        "beginOffset": 0
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "https://t.co/iONzdABa6HRT @johnkrygelski: Absolutely fascinating article about Corona Virus and the Mexican cartels...",
+        "beginOffset": 96
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "https://t.co/iONzdABa6H@hectormariscal7 There are worse things to worry about like the corona virus@GetDisneyPrime It’s a corona flex",
+        "beginOffset": 215
+      },
+      "sentiment": {
+        "magnitude": 0.7,
+        "score": -0.7
+      }
+    },
+    {
+      "text": {
+        "content": "Half roll, nothing special..",
+        "beginOffset": 353
+      },
+      "sentiment": {
+        "magnitude": 0.5,
+        "score": -0.5
+      }
+    },
+    {
+      "text": {
+        "content": "but still more then most",
+        "beginOffset": 382
+      },
+      "sentiment": {
+        "magnitude": 0.6,
+        "score": 0.6
+      }
+    },
+    {
+      "text": {
+        "content": "#BlessedRT @johnkrygelski: Absolutely fascinating article about Corona Virus and the Mexican cartels...",
+        "beginOffset": 409
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "https://t.co/iONzdABa6HAbsolutely fascinating article about Corona Virus and the Mexican cartels...",
+        "beginOffset": 513
+      },
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": 0.8
+      }
+    },
+    {
+      "text": {
+        "content": "https://t.co/iONzdABa6H@KristinaWBlader @clearwriter Seriously, I cannot imagine anyone right now that is not scrambling to figure out life A.C. (After Corona) even though it is going to be a long stretch of D.C (during Corona) ahead.",
+        "beginOffset": 613
+      },
+      "sentiment": {
+        "magnitude": 0.4,
+        "score": -0.4
+      }
+    },
+    {
+      "text": {
+        "content": "My B.C.",
+        "beginOffset": 848
+      },
+      "sentiment": {
+        "magnitude": 0.3,
+        "score": 0.3
+      }
+    },
+    {
+      "text": {
+        "content": "(Before Corona) life seems like such a utopia in comparison to DC and AC.RT @FrankFigliuzzi1: Join me in the 4p ET hour for the “China Trap”: Pompeo Ties Coronavirus to China Lab, Despite Spy Agencies’ Uncertaint…@MSNBC Its not vrand new to the world.",
+        "beginOffset": 856
+      },
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": -0.2
+      }
+    },
+    {
+      "text": {
+        "content": "Corona viruses have been around for hundreds of years.",
+        "beginOffset": 1116
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "They all act similarly.",
+        "beginOffset": 1171
+      },
+      "sentiment": {
+        "magnitude": 0.3,
+        "score": -0.3
+      }
+    },
+    {
+      "text": {
+        "content": "So yes, you can predict with some certainty what is going to happen.",
+        "beginOffset": 1195
+      },
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": 0.2
+      }
+    },
+    {
+      "text": {
+        "content": "#Stopthehysteria, #stopthefearmongering, #stoptheBS@funder @realDonaldTrump With any luck he presented her with a rockin’ case of Corona Virus.",
+        "beginOffset": 1264
+      },
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": 0.2
+      }
+    },
+    {
+      "text": {
+        "content": "https://t.co/W0UsAC0da0Way better than the Obama/Biden treatment of the swine flu.",
+        "beginOffset": 1410
+      },
+      "sentiment": {
+        "magnitude": 0.7,
+        "score": 0.7
+      }
+    },
+    {
+      "text": {
+        "content": "In fact, H1N1 is still around and being mis-diagnosed as Corona virus.",
+        "beginOffset": 1493
+      },
+      "sentiment": {
+        "magnitude": 0.6,
+        "score": -0.6
+      }
+    },
+    {
+      "text": {
+        "content": "https://t.co/T2xJovzql0RT @AShortDubSlut: I’m not crying bro my eyes are just sweating https://t.co/2vcLGIwOvA@AndreaAshbrook It’s in corona de Tucson, has a big community park, walking paths, etc.",
+        "beginOffset": 1564
+      },
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": -0.2
+      }
+    },
+    {
+      "text": {
+        "content": "Sycamore canyon is the community name.@RealmanPwns @TFuture2020 @mystica43229 @DavidAgStone @BernieSanders @realDonaldTrump Your president caused the severity of the corona outbreak in Americaexcept that it’s not killer bee vs corona, but corona &amp; killer bee vs us https://t.co/XT0dC5C1IQDrank Corona down at the flea market selling my stuff and hanging out with \"Ronny Red\".",
+        "beginOffset": 1766
+      },
+      "sentiment": {
+        "magnitude": 0.6,
+        "score": -0.6
+      }
+    },
+    {
+      "text": {
+        "content": "That man can HUSTLE.",
+        "beginOffset": 2148
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "Never seen a dude sell shampoo with such style.",
+        "beginOffset": 2169
+      },
+      "sentiment": {
+        "magnitude": 0.4,
+        "score": 0.4
+      }
+    },
+    {
+      "text": {
+        "content": "Don't see that shit no more.RT @FrankFigliuzzi1: “It will magically disappear in April”: Government orders 100,000 new body bags as Trump minimizes death toll #corona…Corona, killer hornets now this 😓 https://t.co/uX80uL0Sn7waiting for corona 2 leave so I can go live in nyc :(RT @musical_marilyn: Us from the corona virus.",
+        "beginOffset": 2217
+      },
+      "sentiment": {
+        "magnitude": 0.7,
+        "score": -0.7
+      }
+    },
+    {
+      "text": {
+        "content": "https://t.co/qUcVJVVQthUs from the corona virus.",
+        "beginOffset": 2550
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "https://t.co/qUcVJVVQth@WhiteHouse @realDonaldTrump @EsperDoD @SecPompeo Got Corona yet?except corona premier https://t.co/vTUd2rHCg3When I joked about “COVID 19, THE MOVIE 🙌🏻” I didn’t realize a Corona virus movie already came out in January called “Pandemic”...suspicious 🤔RT @FrankFigliuzzi1: “It will magically disappear in April”: Government orders 100,000 new body bags as Trump minimizes death toll #corona…RT @FrankFigliuzzi1: Can’t have him spouting all that scary science stuff: White House blocking Fauci from testifying before Congress about…@nytimes More than 1/3 of Corona virus deaths?@aubsre Corona 😬 I’ll send you a couple houses out there that we like@LuchoSfragara Implantes, Perno y corona también.",
+        "beginOffset": 2599
+      },
+      "sentiment": {
+        "magnitude": 0.6,
+        "score": -0.6
+      }
+    },
+    {
+      "text": {
+        "content": "Básicamente cualquier tratamiento odontológico q no sea una carie@TomFitton @realDonaldTrump THIS WILL ALL DISAPPEAR If Trump LOSES NOBODY WILL GET PROSECUTED Saint obama will campaign FOR WHOMEVER the CANDIDATE IS Probably his wife IF THEY PULL THIS OFF FORGET the USA.",
+        "beginOffset": 3353
+      },
+      "sentiment": {
+        "magnitude": 0.7,
+        "score": -0.7
+      }
+    },
+    {
+      "text": {
+        "content": "I would NOT BE SURPRISED  that HISTORY PROVES \"THEY\" CAUSED Corona VIRUS!",
+        "beginOffset": 3626
+      },
+      "sentiment": {
+        "magnitude": 0.7,
+        "score": -0.7
+      }
+    },
+    {
+      "text": {
+        "content": "THEY ARE THAT EVIL.@JamesSDean3 @MiniMingers @DPDaz1 @Kokomothegreat @AnnJack92007784 @toddstarnes This isn't a flu virus.",
+        "beginOffset": 3700
+      },
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": -0.1
+      }
+    },
+    {
+      "text": {
+        "content": "The first clue is that it is called a novel corona virus.",
+        "beginOffset": 3823
+      },
+      "sentiment": {
+        "magnitude": 0.3,
+        "score": -0.3
+      }
+    },
+    {
+      "text": {
+        "content": "Do you know what the \"novel\" means?",
+        "beginOffset": 3881
+      },
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": -0.1
+      }
+    },
+    {
+      "text": {
+        "content": "If you're going to argue this, at least know what you're talking about.",
+        "beginOffset": 3917
+      },
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": -0.8
+      }
+    },
+    {
+      "text": {
+        "content": "#COVIDIOTSRT @ScottertheRile: Cuban should buy a stadium, take the other 4% with him and start a leper/corona colony.",
+        "beginOffset": 3989
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "We'll check in with y'all never.RT @ScottertheRile: Cuban should buy a stadium, take the other 4% with him and start a leper/corona colony.",
+        "beginOffset": 4107
+      },
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": -0.1
+      }
+    },
+    {
+      "text": {
+        "content": "We'll check in with y'all never.Cuban should buy a stadium, take the other 4% with him and start a leper/corona colony.",
+        "beginOffset": 4247
+      },
+      "sentiment": {
+        "magnitude": 0.7,
+        "score": -0.7
+      }
+    },
+    {
+      "text": {
+        "content": "We'll check in with y'all never.",
+        "beginOffset": 4367
+      },
+      "sentiment": {
+        "magnitude": 0.7,
+        "score": -0.7
+      }
+    },
+    {
+      "text": {
+        "content": "https://t.co/QjWtslkDH7@KFILE Batshit crazy is:",
+        "beginOffset": 4400
+      },
+      "sentiment": {
+        "magnitude": 0.5,
+        "score": -0.5
+      }
+    },
+    {
+      "text": {
+        "content": "1) dry humor considering where they think corona originally came from;\n2) an understatement.I’m gonna start using the term BC (before corona) lol@qanon_al @elenochle Just a thought.",
+        "beginOffset": 4449
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "If Trump and Pense get corona and pass away, Pelosi will take power.",
+        "beginOffset": 4633
+      },
+      "sentiment": {
+        "magnitude": 0.3,
+        "score": -0.3
+      }
+    },
+    {
+      "text": {
+        "content": "Could this be why Trump sent Pense far away.This pruner from #Corona is adjustable so it works for many different hand sizes.",
+        "beginOffset": 4702
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "https://t.co/KLqY7tQKza #review #pruning #gardening https://t.co/BBbP52UzdO@TheUSASingers @RepBobbyRush I imagine only \"undesirables\" will test positive and be loaded onto Corona boxcars.@JoeySalads I would say the Chinese Virus Deaths are a lot lower.",
+        "beginOffset": 4828
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "Anyone who dies of Cancer, diabetes, bronchitis,   ammonia, your spouse poisoning your food, someone getting hit by a car, allergic reaction to a bee sting, is all Corona Virus these days!RT @LindaChorney: Creative Corona Comedy\nRelief offered⬇️",
+        "beginOffset": 5081
+      },
+      "sentiment": {
+        "magnitude": 0.6,
+        "score": -0.6
+      }
+    },
+    {
+      "text": {
+        "content": "I am @SavingBernie ...\nand the World.",
+        "beginOffset": 5332
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "#bingewatch if you think you can handle…RT @FrankFigliuzzi1: Can’t have him spouting all that scary science stuff: White House blocking Fauci from testifying before Congress about…Corona CompaRT @ritwik_agrawal: Netflix per week before corona: 0 hours.",
+        "beginOffset": 5372
+      },
+      "sentiment": {
+        "magnitude": 0.7,
+        "score": -0.7
+      }
+    },
+    {
+      "text": {
+        "content": "Netflix per week after corona: 0 hours.Netflix per week before corona: 0 hours.",
+        "beginOffset": 5632
+      },
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": -0.1
+      }
+    },
+    {
+      "text": {
+        "content": "Netflix per week after corona: 0 hours.RT @FrankFigliuzzi1: Join me in the 4p ET hour for the “China Trap”: Pompeo Ties Coronavirus to China Lab, Despite Spy Agencies’ Uncertaint…You don’t realize how much happened in ur life until u sit back and think.",
+        "beginOffset": 5713
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "The fact that I lived during columbine, 9/11, terrorist attacks, school shootings, economic recession, gay marriage legalization, swine flu and corona still amazes me when I think about it😐😭So?",
+        "beginOffset": 5977
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "Ivanka Trumps personal assistant now has the Corona-19 Virus.",
+        "beginOffset": 6177
+      },
+      "sentiment": {
+        "magnitude": 0.6,
+        "score": -0.6
+      }
+    },
+    {
+      "text": {
+        "content": "The virus is on the move attacking the Trumps.",
+        "beginOffset": 6241
+      },
+      "sentiment": {
+        "magnitude": 0.6,
+        "score": -0.6
+      }
+    },
+    {
+      "text": {
+        "content": "The Virus doesn’t care who you are, how rich you are and whether you’re a Trump or not.",
+        "beginOffset": 6289
+      },
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": -0.8
+      }
+    },
+    {
+      "text": {
+        "content": "This is  Karma coming home to roost on the Trumps",
+        "beginOffset": 6384
+      },
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": 0.1
+      }
+    },
+    {
+      "text": {
+        "content": "There is a God!RT @FrankFigliuzzi1: Can’t have him spouting all that scary science stuff: White House blocking Fauci from testifying before Congress about…RT @FrankFigliuzzi1: Mob boss asks his crew if that guy who likes science is a snitch.",
+        "beginOffset": 6435
+      },
+      "sentiment": {
+        "magnitude": 0.7,
+        "score": -0.7
+      }
+    },
+    {
+      "text": {
+        "content": "#fauci #corona https://t.co/7t8XHtu8pJRT @FrankFigliuzzi1: Join me in the 4p ET hour for the “China Trap”: Pompeo Ties Coronavirus to China Lab, Despite Spy Agencies’ Uncertaint…All I'm hoping for at this moment is this corona shit doesn't fuck wit the football season since it totally fucked up the last half of basketballSick of corona wanna go back to work so I can buy a PS2@VultureBoyy I agree my daughter had corona now my oldest son does and his lady.",
+        "beginOffset": 6681
+      },
+      "sentiment": {
+        "magnitude": 0.7,
+        "score": -0.7
+      }
+    },
+    {
+      "text": {
+        "content": "Thank God they’re both very healthy but still there’s lots of people who lost their lives to this crap.",
+        "beginOffset": 7148
+      },
+      "sentiment": {
+        "magnitude": 0.7,
+        "score": -0.7
+      }
+    },
+    {
+      "text": {
+        "content": "Trump should’ve listened back in January 🤬@Linda83632009 @Yamiche There are corona viruses that infect the country and cause flu like symptoms every year.RT @FrankFigliuzzi1: Join us in this Friday Happy Hour podcast!",
+        "beginOffset": 7256
+      },
+      "sentiment": {
+        "magnitude": 0.6,
+        "score": -0.6
+      }
+    },
+    {
+      "text": {
+        "content": "Talking Feds: Return to the Double Agent Bar and Grill: Intelligence, Natio…RT @FrankFigliuzzi1: Join me in the 4p ET hour for the “China Trap”: Pompeo Ties Coronavirus to China Lab, Despite Spy Agencies’ Uncertaint…RT @FrankFigliuzzi1: Join us in this Friday Happy Hour podcast!",
+        "beginOffset": 7479
+      },
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": 0.1
+      }
+    },
+    {
+      "text": {
+        "content": "Talking Feds: Return to the Double Agent Bar and Grill: Intelligence, Natio…RT @FrankFigliuzzi1: Join me in the 4p ET hour for the “China Trap”: Pompeo Ties Coronavirus to China Lab, Despite Spy Agencies’ Uncertaint…fuck corona, i wanna go to the maverick 😔@shilo1949 @GretschGirl5120 Meanwhile in places like Tucson (having had temps up to 106 in the last week) the corona virus lives in.",
+        "beginOffset": 7769
+      },
+      "sentiment": {
+        "magnitude": 0.4,
+        "score": -0.4
+      }
+    },
+    {
+      "text": {
+        "content": "Explain that.",
+        "beginOffset": 8173
+      },
+      "sentiment": {
+        "magnitude": 0.4,
+        "score": -0.4
+      }
+    },
+    {
+      "text": {
+        "content": "SMDHRT @LindaChorney: Creative Corona Comedy\nRelief offered⬇️",
+        "beginOffset": 8188
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "I am @SavingBernie ...\nand the World.",
+        "beginOffset": 8255
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "#bingewatch if you think you can handle…okay but can we just think back to that episode of the simpsons where Donald trump is in a coffin?",
+        "beginOffset": 8295
+      },
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": -0.2
+      }
+    },
+    {
+      "text": {
+        "content": "what if he dies from corona because now the white house staff has it 🤭😂@AnimalHouse24 Coronaplot twist: the corona virus was made to produce more money for mask and hand sanitizer industries.",
+        "beginOffset": 8436
+      },
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": -0.2
+      }
+    },
+    {
+      "text": {
+        "content": "prove me wrong.",
+        "beginOffset": 8634
+      },
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": -0.8
+      }
+    },
+    {
+      "text": {
+        "content": "someone get @shanedawson on this.@RealMiniAOC @Congrats_USA Their viewpoints die in the light just like Corona.",
+        "beginOffset": 8650
+      },
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": -0.2
+      }
+    },
+    {
+      "text": {
+        "content": "They have to censor the truth often and relentlessly.RT @LindaChorney: Creative Corona Comedy\nRelief offered⬇️",
+        "beginOffset": 8762
+      },
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": -0.8
+      }
+    },
+    {
+      "text": {
+        "content": "I am @SavingBernie ...\nand the World.",
+        "beginOffset": 8878
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "#bingewatch if you think you can handle…RT @LindaChorney: Creative Corona Comedy\nRelief offered⬇️",
+        "beginOffset": 8918
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "I am @SavingBernie ...\nand the World.",
+        "beginOffset": 9023
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "#bingewatch if you think you can handle…Creative Corona Comedy\nRelief offered⬇️",
+        "beginOffset": 9063
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "I am @SavingBernie ...\nand the World.",
+        "beginOffset": 9150
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "#bingewatch if you think you can handle all the laughter.",
+        "beginOffset": 9190
+      },
+      "sentiment": {
+        "magnitude": 0.5,
+        "score": 0.5
+      }
+    },
+    {
+      "text": {
+        "content": "Now on @Vimeo https://t.co/FyKVs55BCj@corona_MMA Long lay off for Werdum may cost him this fight.",
+        "beginOffset": 9248
+      },
+      "sentiment": {
+        "magnitude": 0.4,
+        "score": -0.4
+      }
+    },
+    {
+      "text": {
+        "content": "Hopefully it's not a snoozer because I could see that happening in this one.@corona_MMA Who do you think wins that fight?RT @GreenChileAdict: @juanblanco76 Corona virus afterwards https://t.co/80bZ9F1ddgRT @SoloTrips: How Overland Travellers Deal With The Corona Crisis https://t.co/e2zn0cgkPW #travel via @Dare2gocomYeah the Corona virus is scary but I'm more scared of the fact that naruto and sasuke are going to die in boruto..RT @FrankFigliuzzi1: Mob boss asks his crew if that guy who likes science is a snitch.",
+        "beginOffset": 9346
+      },
+      "sentiment": {
+        "magnitude": 0.6,
+        "score": -0.6
+      }
+    },
+    {
+      "text": {
+        "content": "#fauci #corona@SpankyManWhore @KVOA The child died with underlying issues in addition to the corona virus.",
+        "beginOffset": 9864
+      },
+      "sentiment": {
+        "magnitude": 0.5,
+        "score": -0.5
+      }
+    },
+    {
+      "text": {
+        "content": "I'd like to see info that provides that it was due to his underlying conditions versus covid and, that this specific facility profited off of the classification to beef up the numbers.RT @TaniCaroline: Sweet Tomatoes closing PERMANENTLY from the corona virus is the LAST STRAW i don’t want this lifeSweet Tomatoes closing PERMANENTLY from the corona virus is the LAST STRAW i don’t want this lifeRT @DankDom: had a show booked for today if corona wasn’t a thingRT @FrankFigliuzzi1: Join me in the 4p ET hour for the “China Trap”: Pompeo Ties Coronavirus to China Lab, Despite Spy Agencies’ Uncertaint…“Baby will you be my, corona and lime?” fuck you Schwayze, I will noti really took pre corona for granted i can’t do this anymore@IGNStore @IGN Just gonna slide that Corona shirt in there like it’s nothing?@ProFootballTalk Didn’t Von Miller get corona weeks ago and pretty much nothing happenedRT @FrankFigliuzzi1: Trump owes tens of millions to the Bank of China — and the loan is due soon - POLITICO #china #corona  https://t.co/94…End Week Cigar Review Smoking Blog – Drew Estate Java Latte Petite Corona https://t.co/wwa60vSv0b https://t.co/SL5YHyZeam@bellathediva_ @the_resistor @realDonaldTrump I'm a Trump supporter and I agree with them blaming Trump, but the virus wasn't created to make him look bad.",
+        "beginOffset": 9971
+      },
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": -0.8
+      }
+    },
+    {
+      "text": {
+        "content": "Corona is also ALOT worse than the flu.RT @FrankFigliuzzi1: Join me in the 4p ET hour for the “China Trap”: Pompeo Ties Coronavirus to China Lab, Despite Spy Agencies’ Uncertaint…@Hogan698 Get a little corona, try it, if you don't like it don't have the whole thingGeico only charging me $10 for car insurance this month because of Corona.",
+        "beginOffset": 11313
+      },
+      "sentiment": {
+        "magnitude": 0.4,
+        "score": -0.4
+      }
+    },
+    {
+      "text": {
+        "content": "😎corona really killed what was suppose to be my best year, now i’m graduating late, entering my externship late and I just feel like i’ve lost all practice.",
+        "beginOffset": 11661
+      },
+      "sentiment": {
+        "magnitude": 0.6,
+        "score": -0.6
+      }
+    },
+    {
+      "text": {
+        "content": "I hate it hereRT @FrankFigliuzzi1: Can’t have him spouting all that scary science stuff: White House blocking Fauci from testifying before Congress about…@DavidWaddell5 Corona virus just brought the chickens home to roost a couple years sooner.had a show booked for today if corona wasn’t a thing@funder Scott, Is trumps botched Corona Virus response a failure, or murder?Throwback to last month when my co worker Seth got my name tattooed right before corona shut down my work place permanently and we have not talked since that very day https://t.co/bV1nbnD3vr@eltatoyoung \nLa crisis educativa es peor que el corona virus....This whole corona shit really showing that the world is full of idiots.",
+        "beginOffset": 11825
+      },
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": -0.8
+      }
+    },
+    {
+      "text": {
+        "content": "You're supposed to do everything and anything to just stay ya ass inside bc there's a virus that is KILLING PPL.",
+        "beginOffset": 12530
+      },
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": -0.8
+      }
+    },
+    {
+      "text": {
+        "content": "Y is it so hard to just take a break from life and stay inside with ya family's.",
+        "beginOffset": 12643
+      },
+      "sentiment": {
+        "magnitude": 0.3,
+        "score": -0.3
+      }
+    },
+    {
+      "text": {
+        "content": "Smh.@thebradfordfile Not to mention expected influenza deaths miraculously cut in half...or more even.",
+        "beginOffset": 12724
+      },
+      "sentiment": {
+        "magnitude": 0.4,
+        "score": -0.4
+      }
+    },
+    {
+      "text": {
+        "content": "Corona cures influenza...apparently.@AndrewCMcCarthy Redaction Rodney's argument dies in the light just like Corona.",
+        "beginOffset": 12828
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "Or Schiff\nOr Judge jackson\nThe only one blowing more gas is Swalwell",
+        "beginOffset": 12947
+      },
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": -0.2
+      }
+    },
+    {
+      "text": {
+        "content": "@realDonaldTrump",
+        "beginOffset": 13017
+      },
+      "sentiment": {
+        "magnitude": 0.3,
+        "score": 0.3
+      }
+    }
+  ]
+}

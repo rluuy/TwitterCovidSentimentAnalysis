@@ -1,0 +1,649 @@
+{
+  "documentSentiment": {
+    "magnitude": 25.6,
+    "score": -0.2
+  },
+  "language": "en",
+  "sentences": [
+    {
+      "text": {
+        "content": "@Jhanedouze Pa panse corona pral kite Doub blan version 2 sa fe menm bgy a version 1 an nn surtou Roody frèt nan momanIt seems many of you forgot that, PEOPLE ARE DYING!",
+        "beginOffset": 0
+      },
+      "sentiment": {
+        "magnitude": 0.7,
+        "score": -0.7
+      }
+    },
+    {
+      "text": {
+        "content": "THIS DISEASE IS RUINING LIVES, AND PEOPLE ARE DYING ALONE, WITH…",
+        "beginOffset": 171
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "https://t.co/80CchiWPUFQuejesto vale?....bien bello pues si no es china con su corona virus del coño ese, ahora es Japón con unas avispas…",
+        "beginOffset": 238
+      },
+      "sentiment": {
+        "magnitude": 0.3,
+        "score": 0.3
+      }
+    },
+    {
+      "text": {
+        "content": "https://t.co/oTvGyRwnR4RT @aranguito24: . @merv59 @Barreja @gurozu @DIDASKALOSW @alkaravan @pormillano Who was the Colombian drug trafficker who sponsored the COR…Very cool!!!!",
+        "beginOffset": 381
+      },
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": 0.8
+      }
+    },
+    {
+      "text": {
+        "content": "👊🏼 https://t.co/6M1kyqKz83I’m taking 3 summer classes, but my literally spending an extra 500 on class bc of corona.",
+        "beginOffset": 560
+      },
+      "sentiment": {
+        "magnitude": 0.4,
+        "score": 0.4
+      }
+    },
+    {
+      "text": {
+        "content": "I’ve never felt more br… https://t.co/ks1rTcO1ZOEl actor ha enviado algo muy especial a un niño australiano al que sus compañeros acosan por llamarse Corona.…",
+        "beginOffset": 686
+      },
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": -0.1
+      }
+    },
+    {
+      "text": {
+        "content": "https://t.co/IxbZbPPBVpRT @jeanduran3: RT for Corona\nLike for Modelo",
+        "beginOffset": 853
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "For science https://t.co/Jb2p5XCUwe@corona_tamer Sudah sudah, bakule totop posoan@trussbetold @CBSLA you can do that enough..",
+        "beginOffset": 924
+      },
+      "sentiment": {
+        "magnitude": 0.3,
+        "score": 0.3
+      }
+    },
+    {
+      "text": {
+        "content": "im tired of these scare tactics from media.",
+        "beginOffset": 1050
+      },
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": -0.8
+      }
+    },
+    {
+      "text": {
+        "content": "corona has a death rate of… https://t.co/NZdiVBRFL8RT @aranguito24: . @merv59 @Barreja @gurozu @DIDASKALOSW @alkaravan @pormillano Who was the Colombian drug trafficker who sponsored the COR…RT @afroaesthetic: I just want to hold you in my arms and make all your pain disappear but I can’t because the corona virus but I love you…All i want is to be able to go back to work 😓 it’s all i think about all day....corona please get tf onSo Corona Ima need to you bounce we just a mansion in LA and flights for the low Labor Day weekend!!!",
+        "beginOffset": 1094
+      },
+      "sentiment": {
+        "magnitude": 0.3,
+        "score": -0.3
+      }
+    },
+    {
+      "text": {
+        "content": "Don’t fuck this up for usSó eu que planejei fazer mil coisa esse ano e n fiz nada por causa do corona?consegui me curar desse corona vírus@SalvatoreZomba after corona virus yeah cus i dont gotta go to any weeklies til extended over cus im guranteed anyways 😎RT @aranguito24: . @merv59 @Barreja @gurozu @DIDASKALOSW @alkaravan @pormillano Who was the Colombian drug trafficker who sponsored the COR…Gara gara corona lebaran di undur abis puasa bjirrrafter this corona shit, im taking pole dancing classes YUPHappy 5 de Mayo",
+        "beginOffset": 1642
+      },
+      "sentiment": {
+        "magnitude": 0.6,
+        "score": -0.6
+      }
+    },
+    {
+      "text": {
+        "content": "#cincodemayo #5demayo #tacos #tacotuesday #corona #coronavirus @ Miami, Florida https://t.co/HSucx6duy5RT @MauiMeow00: @DavidMuir No, phucking election should be a referendum on working with our biggest enemy, RuS, to destroy western democrac…ohhh haha true cinco de mayo corona so corona beer yeah okRT @empurify: Y’all ever miss your younger energy like shit wtf happened to mePerdi uma parente pro corona vírusMy dawg said she's smoking on Corona Kush 😂😂...is that real tho 🤔I want some fresh cotton candy &amp; some elephant ears but corona playing the fuck outta usRT @jeanduran3: RT for Corona\nLike for Modelo",
+        "beginOffset": 2175
+      },
+      "sentiment": {
+        "magnitude": 0.7,
+        "score": -0.7
+      }
+    },
+    {
+      "text": {
+        "content": "For science https://t.co/Jb2p5XCUweFor those that said corona I fwy but modelo is the king here https://t.co/ea73Hc6tOYNO VENTILATORS NECESSARY FOR THE CHINESE CORONA VIRUS !!!",
+        "beginOffset": 2807
+      },
+      "sentiment": {
+        "magnitude": 0.6,
+        "score": 0.6
+      }
+    },
+    {
+      "text": {
+        "content": "https://t.co/gSNAQgcFH8@stacykasse @BetteMidler Actually we had testing for SARS/Corona.",
+        "beginOffset": 2984
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "The issue is the tests came from China and were t… https://t.co/DM9NIoEhWHTHE REAL CHINA CORONA VIRUS NUMBERS !!!",
+        "beginOffset": 3073
+      },
+      "sentiment": {
+        "magnitude": 0.7,
+        "score": -0.7
+      }
+    },
+    {
+      "text": {
+        "content": "https://t.co/ZFoOf4O1aGisso pq o corona nem amenizou ainda https://t.co/OzvHFcaLSYThat was built with corona money most likely to UKs benefit https://t.co/BqVBt0o6BZRT @jeanduran3: RT for Corona\nLike for Modelo",
+        "beginOffset": 3189
+      },
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": -0.2
+      }
+    },
+    {
+      "text": {
+        "content": "For science https://t.co/Jb2p5XCUweAll these corona ads did they socially distance when making them?@dmrbatuhan @incilhan Bu ara corona ya yorarim ;)😂😂 This was too good to not post.",
+        "beginOffset": 3402
+      },
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": 0.1
+      }
+    },
+    {
+      "text": {
+        "content": "Thank you @donaldjtrumpjr #cincodemayo #tacotuesday #corona @ Miami, Florida https://t.co/05E9OvTQZGIt’s pass time....corona guh ahh yuh yard!!!!!",
+        "beginOffset": 3591
+      },
+      "sentiment": {
+        "magnitude": 0.7,
+        "score": 0.7
+      }
+    },
+    {
+      "text": {
+        "content": "https://t.co/Ui9nTyIKxiIt’s Corona time https://t.co/ukk0Ql4RX0Happy Cinco de Mayo 2020 which took place on a Taco Tuesday... which forced by A Quarantine from a Virus named Coro… https://t.co/5vV3vgCVFk@Corona_Bot__ 😺corona pfvr, não pegue ele antes de mimRT @jeanduran3: RT for Corona\nLike for Modelo",
+        "beginOffset": 3740
+      },
+      "sentiment": {
+        "magnitude": 0.3,
+        "score": -0.3
+      }
+    },
+    {
+      "text": {
+        "content": "For science https://t.co/Jb2p5XCUweEsta corona si me gusta.",
+        "beginOffset": 4053
+      },
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": 0.1
+      }
+    },
+    {
+      "text": {
+        "content": "https://t.co/qGg21bhIwM@RMConservative I would love to see data on how many people who died were expected to die in the near future from o… https://t.co/1Bbe2StqpLSooo now the hornets n corona?",
+        "beginOffset": 4113
+      },
+      "sentiment": {
+        "magnitude": 0.3,
+        "score": -0.3
+      }
+    },
+    {
+      "text": {
+        "content": "Basically it’s two ways out here now ... well time to wrap 2020 upRT @daniellep__: Miami Gardens only got 10 cases of Corona Virus.",
+        "beginOffset": 4309
+      },
+      "sentiment": {
+        "magnitude": 0.5,
+        "score": -0.5
+      }
+    },
+    {
+      "text": {
+        "content": "And we’re a predominately black neighborhood.",
+        "beginOffset": 4443
+      },
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": -0.1
+      }
+    },
+    {
+      "text": {
+        "content": "God is GoodRT @aranguito24: . @merv59 @Barreja @gurozu @DIDASKALOSW @alkaravan @pormillano Who was the Colombian drug trafficker who sponsored the COR…Biraz daha korku salalım 😅\n#Corona #sandıktagörüşürüz https://t.co/XmCMcwVRy4RT @aranguito24: . @merv59 @Barreja @gurozu @DIDASKALOSW @alkaravan @pormillano Who was the Colombian drug trafficker who sponsored the COR…The freaking iorny that it was something named Corona that ruined #CincoDeMayo https://t.co/p88OcFBhFJRT @Rconstantino: \"Já não tenho paciência para gente diversa que garante por aí que a nossa vida nunca mais será a mesma.",
+        "beginOffset": 4491
+      },
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": -0.8
+      }
+    },
+    {
+      "text": {
+        "content": "Como sabem?",
+        "beginOffset": 5102
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "Não s…RT @mykelhawke: A great site to evaluate various Corona statistics, USA &amp; Globally, or by selecting countries to compare.",
+        "beginOffset": 5114
+      },
+      "sentiment": {
+        "magnitude": 0.5,
+        "score": 0.5
+      }
+    },
+    {
+      "text": {
+        "content": "The gist is that…Hush: “Corona Corona baby bend ova, margarita margarita bout to fuck this senoirita” 🤣",
+        "beginOffset": 5249
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": -0.9
+      }
+    },
+    {
+      "text": {
+        "content": "Chanel: Yay it’s nasty tim… https://t.co/ZJeFSRgdZLRT @daniellep__: Miami Gardens only got 10 cases of Corona Virus.",
+        "beginOffset": 5364
+      },
+      "sentiment": {
+        "magnitude": 0.5,
+        "score": -0.5
+      }
+    },
+    {
+      "text": {
+        "content": "And we’re a predominately black neighborhood.",
+        "beginOffset": 5485
+      },
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": -0.1
+      }
+    },
+    {
+      "text": {
+        "content": "God is GoodRT @sthawlays: What do you guys think is the vibe for school next year?",
+        "beginOffset": 5533
+      },
+      "sentiment": {
+        "magnitude": 0.3,
+        "score": -0.3
+      }
+    },
+    {
+      "text": {
+        "content": "#corona #NationalTeacherDay #school #StayAtHome #onlinelearning htt…RT @JerichoWing: What are you gonna do with that big bat?",
+        "beginOffset": 5616
+      },
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": -0.1
+      }
+    },
+    {
+      "text": {
+        "content": "Gonna hit me?",
+        "beginOffset": 5744
+      },
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": -0.2
+      }
+    },
+    {
+      "text": {
+        "content": "Better make it count.",
+        "beginOffset": 5758
+      },
+      "sentiment": {
+        "magnitude": 0.5,
+        "score": -0.5
+      }
+    },
+    {
+      "text": {
+        "content": "Better make it hurt.",
+        "beginOffset": 5780
+      },
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": -0.8
+      }
+    },
+    {
+      "text": {
+        "content": "Better kill me in one sh…RT @JerichoWing: Parent e-mails me \"Why did you fail my kid\"",
+        "beginOffset": 5801
+      },
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": -0.8
+      }
+    },
+    {
+      "text": {
+        "content": "me: *attaching the kids work + linking to the website he copied it from* htt…RT @CreativeFlow7: Did the Corona Virus help your IB score?",
+        "beginOffset": 5891
+      },
+      "sentiment": {
+        "magnitude": 0.3,
+        "score": -0.3
+      }
+    },
+    {
+      "text": {
+        "content": "#ib #IB #nerds #school #apexams #Ivy #scholar #ibmeme #corona #COVID19 #student…Did the Corona Virus help your IB score?",
+        "beginOffset": 6030
+      },
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": -0.1
+      }
+    },
+    {
+      "text": {
+        "content": "#ib #IB #nerds #school #apexams #Ivy #scholar #ibmeme #corona #COVID19…",
+        "beginOffset": 6153
+      },
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": 0.2
+      }
+    },
+    {
+      "text": {
+        "content": "https://t.co/epcQBvsgXO@WhiteHouse 330 Milyon nüfuslu Amerikada 7 Milyon test yapılmış.",
+        "beginOffset": 6227
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "Türkiyede ise 1 Milyon 200 bin.",
+        "beginOffset": 6319
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "#Coronathey saying the corona virus has mutated 🤦🏾\u200d♀️ FUCK YOU GOVERNMENT!What do you guys think is the vibe for school next year?",
+        "beginOffset": 6353
+      },
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": -0.8
+      }
+    },
+    {
+      "text": {
+        "content": "#corona #NationalTeacherDay #school #StayAtHome…",
+        "beginOffset": 6496
+      },
+      "sentiment": {
+        "magnitude": 0.3,
+        "score": 0.3
+      }
+    },
+    {
+      "text": {
+        "content": "https://t.co/Yj4aJLgq6t@cataquesadilla Ugh same!!",
+        "beginOffset": 6547
+      },
+      "sentiment": {
+        "magnitude": 0.5,
+        "score": -0.5
+      }
+    },
+    {
+      "text": {
+        "content": "we will walk the dogs post-coronaWe are OVER YOU CORONART @Rconstantino: \"Já não tenho paciência para gente diversa que garante por aí que a nossa vida nunca mais será a mesma.",
+        "beginOffset": 6597
+      },
+      "sentiment": {
+        "magnitude": 0.6,
+        "score": -0.6
+      }
+    },
+    {
+      "text": {
+        "content": "Como sabem?",
+        "beginOffset": 6779
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "Não s…@realDonaldTrump why u always said everyone is telling fake news when u knew about the corona virus since december…",
+        "beginOffset": 6791
+      },
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": -0.8
+      }
+    },
+    {
+      "text": {
+        "content": "https://t.co/p6rgXzf5gkRT @aranguito24: . @merv59 @Barreja @gurozu @DIDASKALOSW @alkaravan @pormillano Who was the Colombian drug trafficker who sponsored the COR…@PMOIndia @MOS_MEA @shipmin_india @ShashiTharoor @NambiarShreeja We vr very much appreciate the decision of lockdow…",
+        "beginOffset": 6918
+      },
+      "sentiment": {
+        "magnitude": 0.4,
+        "score": 0.4
+      }
+    },
+    {
+      "text": {
+        "content": "https://t.co/giTFOtfDGERT @SkyTrace29: everything changed with this mf caught corona https://t.co/bBQbxUgpAURT @JesuLeon: Ni novia está vuelta mierda viendo videos de los papás reaccionando a safaera.",
+        "beginOffset": 7202
+      },
+      "sentiment": {
+        "magnitude": 0.5,
+        "score": -0.5
+      }
+    },
+    {
+      "text": {
+        "content": "Mañana me pregunta si he escuchado del Corona…everything changed with this mf caught corona https://t.co/bBQbxUgpAUCheck out Cinco de mayo cancelled by corona???",
+        "beginOffset": 7405
+      },
+      "sentiment": {
+        "magnitude": 0.5,
+        "score": -0.5
+      }
+    },
+    {
+      "text": {
+        "content": "❤️ayane ❤️ #TheFraternity #JuicesquadG  Sub Goal 98/150 Follower Goa… https://t.co/N3vGG6sZwVMiami Gardens only got 10 cases of Corona Virus.",
+        "beginOffset": 7570
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "And we’re a predominately black neighborhood.",
+        "beginOffset": 7722
+      },
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": -0.1
+      }
+    },
+    {
+      "text": {
+        "content": "God is GoodHow to Get Divorced During the Corona Virus https://t.co/vFF2r5gpyO via @YouTube @NoryAronfeldDomestic Abuse and Human Rights During the Corona Virus https://t.co/rIHoL1mrJW via @YouTube @NoryAronfeldEl popular Maximus de la guardia real, el caballo de Rapunzel en la peli Enredados.",
+        "beginOffset": 7770
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "Le tiene idea a Flynn por haber…",
+        "beginOffset": 8065
+      },
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": 0.2
+      }
+    },
+    {
+      "text": {
+        "content": "https://t.co/61kGrTsRsTRT @aranguito24: . @merv59 @Barreja @gurozu @DIDASKALOSW @alkaravan @pormillano Who was the Colombian drug trafficker who sponsored the COR…Fuck outta here lil corona virus https://t.co/xiYZp6nnYpHasta cuando el corona virus me arruina los planes?@AnaCecilia93 the corona virus messing up season 2, but I think they had already finished = (@_brendaacosta Elas vem cheias de CoronaRT @ThomasWenski: Recording a video Mothers’ Day message.",
+        "beginOffset": 8100
+      },
+      "sentiment": {
+        "magnitude": 0.6,
+        "score": -0.6
+      }
+    },
+    {
+      "text": {
+        "content": "May is also Mother Mary’s month.",
+        "beginOffset": 8565
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "Let’s pray a Hail Mary together as we get to th…RT @aranguito24: . @merv59 @Barreja @gurozu @DIDASKALOSW @alkaravan @pormillano Who was the Colombian drug trafficker who sponsored the COR…RT @OscartheQ1: \"Dead Zone\" TV show from 2003 mentions corona virus, talks about the Hydroxychloroquine being the cure, and \"lockdown.\"Dead…RT @jeanduran3: RT for Corona\nLike for Modelo",
+        "beginOffset": 8601
+      },
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": -0.1
+      }
+    },
+    {
+      "text": {
+        "content": "For science https://t.co/Jb2p5XCUweI think the Deep State is going to dig up Methuselah and do a DNA test on the body to add one more victim to the Co… https://t.co/rtKC5yLrT5@Perri4health @content1949 💕🌈💕💐💕You got this one, Buddy.",
+        "beginOffset": 8985
+      },
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": -0.2
+      }
+    },
+    {
+      "text": {
+        "content": "Kick Corona to the curb!!😷RT @itssmichaelsaba: It’s a cruel world where cinco de mayo falls on taco tuesday only to be ruined by a virus named ‘Corona’El virus Corona empeora la condición de Estados Unidos, tendrá que pedir prestados $ 30 billones #Topbuzz https://t.co/YeFHHnThllRT @soleboy305: Corona got 24 hrs to respond...RT @avaliveradio: New Single from @thesignofleo \nThe Global Fight is a song about the Corona Covid-19 crisis.",
+        "beginOffset": 9234
+      },
+      "sentiment": {
+        "magnitude": 0.7,
+        "score": -0.7
+      }
+    },
+    {
+      "text": {
+        "content": "We want to honor and support…RT @aranguito24: . @merv59 @Barreja @gurozu @DIDASKALOSW @alkaravan @pormillano Who was the Colombian drug trafficker who sponsored the COR…New Single from @thesignofleo \nThe Global Fight is a song about the Corona Covid-19 crisis.",
+        "beginOffset": 9682
+      },
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": -0.1
+      }
+    },
+    {
+      "text": {
+        "content": "We want to honor and su… https://t.co/6rZd4WA8ar@shemactwitts @KBfromChopped @KHiveQueenBee @AhmedBaba_ The first corona case just happened to be the same day Nanc… https://t.co/K9ejKRrncrRT @JesuLeon: Ni novia está vuelta mierda viendo videos de los papás reaccionando a safaera.",
+        "beginOffset": 9947
+      },
+      "sentiment": {
+        "magnitude": 0.4,
+        "score": -0.4
+      }
+    },
+    {
+      "text": {
+        "content": "Mañana me pregunta si he escuchado del Corona…Corona got 24 hrs to respond...",
+        "beginOffset": 10234
+      },
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": -0.1
+      }
+    },
+    {
+      "text": {
+        "content": "https://t.co/JqfEPSEREUMentions Corona and Hydrochloroquine?",
+        "beginOffset": 10315
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "#TheMoreYouKnow https://t.co/5TGhUeSfjmIt sucks next week is the season finale.",
+        "beginOffset": 10376
+      },
+      "sentiment": {
+        "magnitude": 0.7,
+        "score": -0.7
+      }
+    },
+    {
+      "text": {
+        "content": "All because of the Corona \n#TheFlash",
+        "beginOffset": 10457
+      },
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": 0.1
+      }
+    }
+  ]
+}
