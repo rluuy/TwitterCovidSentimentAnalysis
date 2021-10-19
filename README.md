@@ -1,3 +1,6 @@
-# Twitter_Covid_Sentiment_Analysis
+# twitter_sentiment_analyzer
 
-# This is a test push
+This project grabs some data from twitter and exports it to a json file for
+sentitment analysis by google cloud. 
+
+

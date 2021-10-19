@@ -1,0 +1,1479 @@
+{
+  "documentSentiment": {
+    "magnitude": 62.1,
+    "score": 0.1
+  },
+  "language": "id",
+  "sentences": [
+    {
+      "text": {
+        "content": "RT @DonAdam68: Memang gelek bawaannya damai.",
+        "beginOffset": 0
+      },
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": 0.8
+      }
+    },
+    {
+      "text": {
+        "content": "Berdamai dengan Corona lalu begelek bareng2.",
+        "beginOffset": 46
+      },
+      "sentiment": {
+        "magnitude": 0.7,
+        "score": 0.7
+      }
+    },
+    {
+      "text": {
+        "content": "Cocok kan @rahung?",
+        "beginOffset": 91
+      },
+      "sentiment": {
+        "magnitude": 0.5,
+        "score": 0.5
+      }
+    },
+    {
+      "text": {
+        "content": "Apa ini ide inovator 4.0 jug…",
+        "beginOffset": 111
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "IT'S MY HAND SANITIZER!!!",
+        "beginOffset": 142
+      },
+      "sentiment": {
+        "magnitude": 0.3,
+        "score": 0.3
+      }
+    },
+    {
+      "text": {
+        "content": "MINE!!!",
+        "beginOffset": 168
+      },
+      "sentiment": {
+        "magnitude": 0.4,
+        "score": 0.4
+      }
+    },
+    {
+      "text": {
+        "content": "ALL MINE!!!",
+        "beginOffset": 176
+      },
+      "sentiment": {
+        "magnitude": 0.3,
+        "score": 0.3
+      }
+    },
+    {
+      "text": {
+        "content": "https://t.co/b3Xz441Pyh via @YouTube\n#Corona #Handsanitizer #crazy #Mad #madness #parody #satire #comedy #insanity #darkhumor #humor@lwtbslonely corona ne amgRT @rmphillips17: Conversation I just had with my dad: \nHim: “You want a Corona?”",
+        "beginOffset": 188
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "Me: “Ew no corona tastes like ass!”",
+        "beginOffset": 432
+      },
+      "sentiment": {
+        "magnitude": 0.6,
+        "score": -0.6
+      }
+    },
+    {
+      "text": {
+        "content": "Him: “How do you know…",
+        "beginOffset": 472
+      },
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": -0.2
+      }
+    },
+    {
+      "text": {
+        "content": "RT @Ibzzzzz7: Boris Johnson: Stay Alert",
+        "beginOffset": 498
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "Me when I see Corona Virus : https://t.co/6Yp6Uqio2SRT @DonAdam68: Memang gelek bawaannya damai.",
+        "beginOffset": 539
+      },
+      "sentiment": {
+        "magnitude": 0.6,
+        "score": 0.6
+      }
+    },
+    {
+      "text": {
+        "content": "Berdamai dengan Corona lalu begelek bareng2.",
+        "beginOffset": 637
+      },
+      "sentiment": {
+        "magnitude": 0.7,
+        "score": 0.7
+      }
+    },
+    {
+      "text": {
+        "content": "Cocok kan @rahung?",
+        "beginOffset": 682
+      },
+      "sentiment": {
+        "magnitude": 0.5,
+        "score": 0.5
+      }
+    },
+    {
+      "text": {
+        "content": "Apa ini ide inovator 4.0 jug…",
+        "beginOffset": 702
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "Conversation I just had with my dad: \nHim: “You want a Corona?”",
+        "beginOffset": 733
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "Me: “Ew no corona tastes like ass!”",
+        "beginOffset": 801
+      },
+      "sentiment": {
+        "magnitude": 0.6,
+        "score": -0.6
+      }
+    },
+    {
+      "text": {
+        "content": "Him: “How do you know that?”",
+        "beginOffset": 841
+      },
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": -0.2
+      }
+    },
+    {
+      "text": {
+        "content": "Me: “Because I’ve tried it”\nHim: “You’ve tried ass!?”",
+        "beginOffset": 874
+      },
+      "sentiment": {
+        "magnitude": 0.5,
+        "score": -0.5
+      }
+    },
+    {
+      "text": {
+        "content": "Trump Corona Timeline #trump #golf #TrumpOwnsEveryDeath https://t.co/fEXkdQjphVPrimary schools can’t even stop nits spreading not sure they’re gonna do very good job with corona@Horn_Sannity @TomiLahren No one is telling you and your fmly to go out!",
+        "beginOffset": 939
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "Ppl who want to should be able to.",
+        "beginOffset": 1193
+      },
+      "sentiment": {
+        "magnitude": 0.3,
+        "score": -0.3
+      }
+    },
+    {
+      "text": {
+        "content": "Gov Cuomo just put out the # s 66% of ppl getting corona in NY are getting it from staying home. you think the virus can’t travel through ventilation systems and concentrate in your apt where UR U🤪Kinda salty corona cancelled everything except for my period 😡RT @Ibzzzzz7: Boris Johnson: Stay Alert",
+        "beginOffset": 1228
+      },
+      "sentiment": {
+        "magnitude": 0.6,
+        "score": -0.6
+      }
+    },
+    {
+      "text": {
+        "content": "Me when I see Corona Virus : https://t.co/6Yp6Uqio2S@RubyHou0601 @CaucasianJames You also look like a frog@RubyHou0601 @CaucasianJames Lmao he blocked your ass, that’s what you get for being mean:( https://t.co/aw2qYIOaLK@pokimanelol https://t.co/Hq2i70sRzXCorona picnic.",
+        "beginOffset": 1536
+      },
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": -0.1
+      }
+    },
+    {
+      "text": {
+        "content": "Happy Mother’s Day!",
+        "beginOffset": 1810
+      },
+      "sentiment": {
+        "magnitude": 0.5,
+        "score": 0.5
+      }
+    },
+    {
+      "text": {
+        "content": "https://t.co/iCds5OC7rq@og_blanco_1079 https://t.co/M0kZZuuVpJIf I was Pence, I would self-isolate.",
+        "beginOffset": 1832
+      },
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": -0.1
+      }
+    },
+    {
+      "text": {
+        "content": "Not because of corona virus, but just because.Today I\n- Submitted 2 articles on reddit\n- Sold 3 copies of my eBook https://t.co/zhxFsI2g0r\n- Started another Instagram ad campaign with a new strategy\n- Cooked chicken biryani - Indian style",
+        "beginOffset": 1932
+      },
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": 0.1
+      }
+    },
+    {
+      "text": {
+        "content": "how was your day?",
+        "beginOffset": 2172
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "#dailystandup@soclose2me @newmediarules @Jason That's insane.",
+        "beginOffset": 2191
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "There are tons of young healthy non frail people that have died from Corona.",
+        "beginOffset": 2253
+      },
+      "sentiment": {
+        "magnitude": 0.5,
+        "score": -0.5
+      }
+    },
+    {
+      "text": {
+        "content": "Terrible advice.@hyuuie What if he gets corona 😂😷✌@JevaunRcotton they said corona can’t even survive in the sunRT @ClemenSamuels: @tomhanks @RitaWilson This dude is totally dead.",
+        "beginOffset": 2330
+      },
+      "sentiment": {
+        "magnitude": 0.7,
+        "score": -0.7
+      }
+    },
+    {
+      "text": {
+        "content": "\"The Face of The Corona Virus\" got put down before he could touch down…",
+        "beginOffset": 2520
+      },
+      "sentiment": {
+        "magnitude": 0.3,
+        "score": -0.3
+      }
+    },
+    {
+      "text": {
+        "content": "RT @CDWGWAGov: It looks like our current situation has permanently changed #energy demand.",
+        "beginOffset": 2593
+      },
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": 0.2
+      }
+    },
+    {
+      "text": {
+        "content": "Here's why.",
+        "beginOffset": 2684
+      },
+      "sentiment": {
+        "magnitude": 0.6,
+        "score": -0.6
+      }
+    },
+    {
+      "text": {
+        "content": "@Forbes #COVID19 #StaySafe #Corona #…",
+        "beginOffset": 2696
+      },
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": 0.1
+      }
+    },
+    {
+      "text": {
+        "content": "This corona bs just had to happen the year the Lakers are playing good.",
+        "beginOffset": 2735
+      },
+      "sentiment": {
+        "magnitude": 0.6,
+        "score": 0.6
+      }
+    },
+    {
+      "text": {
+        "content": "Like you had 7 damn years and you chose this one.It looks like our current situation has permanently changed #energy demand.",
+        "beginOffset": 2807
+      },
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": -0.2
+      }
+    },
+    {
+      "text": {
+        "content": "Here's why.",
+        "beginOffset": 2932
+      },
+      "sentiment": {
+        "magnitude": 0.6,
+        "score": -0.6
+      }
+    },
+    {
+      "text": {
+        "content": "@Forbes #COVID19 #StaySafe #Corona #StayHome #COVID_19 #cdwsocial https://t.co/ZYdH1SsQM7does everyone think the corona virus just went away or am i missing somethingRT @DonAdam68: Memang gelek bawaannya damai.",
+        "beginOffset": 2944
+      },
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": 0.2
+      }
+    },
+    {
+      "text": {
+        "content": "Berdamai dengan Corona lalu begelek bareng2.",
+        "beginOffset": 3156
+      },
+      "sentiment": {
+        "magnitude": 0.7,
+        "score": 0.7
+      }
+    },
+    {
+      "text": {
+        "content": "Cocok kan @rahung?",
+        "beginOffset": 3201
+      },
+      "sentiment": {
+        "magnitude": 0.5,
+        "score": 0.5
+      }
+    },
+    {
+      "text": {
+        "content": "Apa ini ide inovator 4.0 jug…",
+        "beginOffset": 3221
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "Don't you love playing the game of Is it allergies or is it corona 😂 https://t.co/AnnFr0OEvSRT @DonAdam68: Jeng Sri gak bohong, gak ada Corona aja sdh nyaris bokek.",
+        "beginOffset": 3252
+      },
+      "sentiment": {
+        "magnitude": 0.5,
+        "score": 0.5
+      }
+    },
+    {
+      "text": {
+        "content": "Tapi yg pasti rakyat jadi tahu pemerintah bokek karena Corona.",
+        "beginOffset": 3420
+      },
+      "sentiment": {
+        "magnitude": 0.5,
+        "score": 0.5
+      }
+    },
+    {
+      "text": {
+        "content": "Dan…",
+        "beginOffset": 3483
+      },
+      "sentiment": {
+        "magnitude": 0.4,
+        "score": 0.4
+      }
+    },
+    {
+      "text": {
+        "content": "RT @ErnestMEdsel1: I don't often eat out.",
+        "beginOffset": 3489
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "But when I did, I went to a Chinese restaurant once a year so the filthy kitchen would boost my i…",
+        "beginOffset": 3531
+      },
+      "sentiment": {
+        "magnitude": 0.4,
+        "score": 0.4
+      }
+    },
+    {
+      "text": {
+        "content": "RT @DonAdam68: Memang gelek bawaannya damai.",
+        "beginOffset": 3631
+      },
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": 0.8
+      }
+    },
+    {
+      "text": {
+        "content": "Berdamai dengan Corona lalu begelek bareng2.",
+        "beginOffset": 3677
+      },
+      "sentiment": {
+        "magnitude": 0.7,
+        "score": 0.7
+      }
+    },
+    {
+      "text": {
+        "content": "Cocok kan @rahung?",
+        "beginOffset": 3722
+      },
+      "sentiment": {
+        "magnitude": 0.5,
+        "score": 0.5
+      }
+    },
+    {
+      "text": {
+        "content": "Apa ini ide inovator 4.0 jug…",
+        "beginOffset": 3742
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "RT @Ibzzzzz7: Boris Johnson: Stay Alert",
+        "beginOffset": 3773
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "Me when I see Corona Virus : https://t.co/6Yp6Uqio2SRT @Ibzzzzz7: Boris Johnson: Stay Alert",
+        "beginOffset": 3814
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "Me when I see Corona Virus : https://t.co/6Yp6Uqio2SBoris Johnson: Stay Alert",
+        "beginOffset": 3907
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "Me when I see Corona Virus : https://t.co/6Yp6Uqio2S@TheMaloneBone If I got rich and famous I would hold giant corona parties to build immunity 💀💀😎People are tired of lies.",
+        "beginOffset": 3986
+      },
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": 0.2
+      }
+    },
+    {
+      "text": {
+        "content": "The truth is coming out slowly.",
+        "beginOffset": 4168
+      },
+      "sentiment": {
+        "magnitude": 0.4,
+        "score": 0.4
+      }
+    },
+    {
+      "text": {
+        "content": "LISTEN!!!",
+        "beginOffset": 4200
+      },
+      "sentiment": {
+        "magnitude": 0.6,
+        "score": -0.6
+      }
+    },
+    {
+      "text": {
+        "content": "#coronavirusinindia #Corona #coronavirusinpakistan #COVIDIOT #covid19kenya #COVID19SA https://t.co/ZvCaKHhULQGeweldig goede duurzame tips op de website van @VPROTegenlicht, o.a.:",
+        "beginOffset": 4210
+      },
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": 0.1
+      }
+    },
+    {
+      "text": {
+        "content": "* 5 cruciale kenmerken van een duurzaam bedrijf.\n* 6 economische voorstellen voor betere wereld na corona.\n* 7 ideeën om juist nú voor duurzaamheid te gaan.",
+        "beginOffset": 4390
+      },
+      "sentiment": {
+        "magnitude": 0.4,
+        "score": 0.4
+      }
+    },
+    {
+      "text": {
+        "content": "#Tegenlicht",
+        "beginOffset": 4550
+      },
+      "sentiment": {
+        "magnitude": 0.3,
+        "score": 0.3
+      }
+    },
+    {
+      "text": {
+        "content": "https://t.co/T9qop5xSHt@iGrootman_ Iphele le corona bakithi sesizwile😩 zinto zibuyele back to normal 🙏@CNN Abortions: my body, my choice.",
+        "beginOffset": 4563
+      },
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": 0.2
+      }
+    },
+    {
+      "text": {
+        "content": "Suicide: my body, my choice.",
+        "beginOffset": 4707
+      },
+      "sentiment": {
+        "magnitude": 0.3,
+        "score": 0.3
+      }
+    },
+    {
+      "text": {
+        "content": "It's a fucking mask people, and it can protect you from the Corona virus, the flu, the common cold...",
+        "beginOffset": 4736
+      },
+      "sentiment": {
+        "magnitude": 0.5,
+        "score": -0.5
+      }
+    },
+    {
+      "text": {
+        "content": "Watu wa Taita muwache kupeana mkono sasa Corona amefika. https://t.co/VUfA3rboWR@stvictor @OluniyiGates @wike If you think your governor loves u that much to choose you over corona money, then you have to really look around you and think again.RT @DonAdam68: Memang gelek bawaannya damai.",
+        "beginOffset": 4837
+      },
+      "sentiment": {
+        "magnitude": 0.3,
+        "score": -0.3
+      }
+    },
+    {
+      "text": {
+        "content": "Berdamai dengan Corona lalu begelek bareng2.",
+        "beginOffset": 5127
+      },
+      "sentiment": {
+        "magnitude": 0.7,
+        "score": 0.7
+      }
+    },
+    {
+      "text": {
+        "content": "Cocok kan @rahung?",
+        "beginOffset": 5172
+      },
+      "sentiment": {
+        "magnitude": 0.5,
+        "score": 0.5
+      }
+    },
+    {
+      "text": {
+        "content": "Apa ini ide inovator 4.0 jug…",
+        "beginOffset": 5192
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "@JoeSilverman7 We weren’t thrilled watching it on the news from Maui with friends that include a ER charge nurse at a corona hot spot in Seattle.",
+        "beginOffset": 5223
+      },
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": 0.2
+      }
+    },
+    {
+      "text": {
+        "content": "The Maui airport was cool March 21st.",
+        "beginOffset": 5371
+      },
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": 0.2
+      }
+    },
+    {
+      "text": {
+        "content": "Flight  was full and six weeks later all is well.",
+        "beginOffset": 5410
+      },
+      "sentiment": {
+        "magnitude": 0.4,
+        "score": 0.4
+      }
+    },
+    {
+      "text": {
+        "content": "Let’s get this country going again",
+        "beginOffset": 5461
+      },
+      "sentiment": {
+        "magnitude": 0.6,
+        "score": 0.6
+      }
+    },
+    {
+      "text": {
+        "content": "https://t.co/HqATMY7wTjI have sympathy for the people who had a baby on November 16th, 2019 and named their new born Corona. https://t.co/hvEx0MokEVPreparing the next reading in times of corona packages- kiddo edition!",
+        "beginOffset": 5499
+      },
+      "sentiment": {
+        "magnitude": 0.5,
+        "score": 0.5
+      }
+    },
+    {
+      "text": {
+        "content": "Love these stories and illustrations.",
+        "beginOffset": 5718
+      },
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": 0.2
+      }
+    },
+    {
+      "text": {
+        "content": "Mil gracias ⁦@contodopress⁩ &amp; ⁦@naibereynoso⁩ ❤️❤️❤️ https://t.co/vUDfszAmanRT @Zidhuuu: I think some of you would’ve organized a run against corona or sth if it weren’t lockdown.@LayzRyan",
+        "beginOffset": 5756
+      },
+      "sentiment": {
+        "magnitude": 0.3,
+        "score": 0.3
+      }
+    },
+    {
+      "text": {
+        "content": "a real one for cutting me past that corona line for oystersRT @DonAdam68: Memang gelek bawaannya damai.",
+        "beginOffset": 5973
+      },
+      "sentiment": {
+        "magnitude": 0.7,
+        "score": 0.7
+      }
+    },
+    {
+      "text": {
+        "content": "Berdamai dengan Corona lalu begelek bareng2.",
+        "beginOffset": 6078
+      },
+      "sentiment": {
+        "magnitude": 0.7,
+        "score": 0.7
+      }
+    },
+    {
+      "text": {
+        "content": "Cocok kan @rahung?",
+        "beginOffset": 6123
+      },
+      "sentiment": {
+        "magnitude": 0.5,
+        "score": 0.5
+      }
+    },
+    {
+      "text": {
+        "content": "Apa ini ide inovator 4.0 jug…",
+        "beginOffset": 6143
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "RT @Zidhuuu: I think some of you would’ve organized a run against corona or sth if it weren’t lockdown.Aussie professor knows all about #Wuhan400 War from China #CCP Corona bioterror weapon of mass destruction from Dr.",
+        "beginOffset": 6174
+      },
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": -0.2
+      }
+    },
+    {
+      "text": {
+        "content": "Shi Zhengli #shizhengli #石正丽. https://t.co/JC8Gjgbruuif corona ain’t happen i was woulda seen carti uzi rocky and don toliver at JMBLYA https://t.co/Cba5TSd67c@Drrramina This isn't from a corona protest. https://t.co/Z7ErzbUBKt@jakebrodes Still better than alcohol or any other drugsi want ice cream so bad bas my parents think that beyegy ma3a el corona so👍@Noor_Screw_them @IamAquil12 Haan woi...",
+        "beginOffset": 6397
+      },
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": -0.2
+      }
+    },
+    {
+      "text": {
+        "content": "Bahir corona\nYaha piyaar mai dhoka\nEk traf khai ek traf kuaaaanSaddens me how many people are in the comments saying “fuck SHAQ.”",
+        "beginOffset": 6807
+      },
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": -0.8
+      }
+    },
+    {
+      "text": {
+        "content": "Or “fuck that fat ass”",
+        "beginOffset": 6941
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": -0.9
+      }
+    },
+    {
+      "text": {
+        "content": "When someone like LeBron gets corona from another player on the court, and misses/loses the NBA finals.",
+        "beginOffset": 6970
+      },
+      "sentiment": {
+        "magnitude": 0.3,
+        "score": -0.3
+      }
+    },
+    {
+      "text": {
+        "content": "I don’t wanna hear the “there is an asterisk” or “that’s not even fair.” https://t.co/jEFMtWx9yvRT @okanogen2010: @GuardianUS No.",
+        "beginOffset": 7074
+      },
+      "sentiment": {
+        "magnitude": 0.6,
+        "score": -0.6
+      }
+    },
+    {
+      "text": {
+        "content": "Democrats aren't divided.",
+        "beginOffset": 7216
+      },
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": 0.2
+      }
+    },
+    {
+      "text": {
+        "content": "Most don't even know what is going on except for corona virus.RT @DonAdam68: Memang gelek bawaannya damai.",
+        "beginOffset": 7242
+      },
+      "sentiment": {
+        "magnitude": 0.6,
+        "score": 0.6
+      }
+    },
+    {
+      "text": {
+        "content": "Berdamai dengan Corona lalu begelek bareng2.",
+        "beginOffset": 7350
+      },
+      "sentiment": {
+        "magnitude": 0.7,
+        "score": 0.7
+      }
+    },
+    {
+      "text": {
+        "content": "Cocok kan @rahung?",
+        "beginOffset": 7395
+      },
+      "sentiment": {
+        "magnitude": 0.5,
+        "score": 0.5
+      }
+    },
+    {
+      "text": {
+        "content": "Apa ini ide inovator 4.0 jug…",
+        "beginOffset": 7415
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "RT @DonAdam68: Memang gelek bawaannya damai.",
+        "beginOffset": 7446
+      },
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": 0.8
+      }
+    },
+    {
+      "text": {
+        "content": "Berdamai dengan Corona lalu begelek bareng2.",
+        "beginOffset": 7492
+      },
+      "sentiment": {
+        "magnitude": 0.7,
+        "score": 0.7
+      }
+    },
+    {
+      "text": {
+        "content": "Cocok kan @rahung?",
+        "beginOffset": 7537
+      },
+      "sentiment": {
+        "magnitude": 0.5,
+        "score": 0.5
+      }
+    },
+    {
+      "text": {
+        "content": "Apa ini ide inovator 4.0 jug…",
+        "beginOffset": 7557
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "RT @DonAdam68: Memang gelek bawaannya damai.",
+        "beginOffset": 7588
+      },
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": 0.8
+      }
+    },
+    {
+      "text": {
+        "content": "Berdamai dengan Corona lalu begelek bareng2.",
+        "beginOffset": 7634
+      },
+      "sentiment": {
+        "magnitude": 0.7,
+        "score": 0.7
+      }
+    },
+    {
+      "text": {
+        "content": "Cocok kan @rahung?",
+        "beginOffset": 7679
+      },
+      "sentiment": {
+        "magnitude": 0.5,
+        "score": 0.5
+      }
+    },
+    {
+      "text": {
+        "content": "Apa ini ide inovator 4.0 jug…",
+        "beginOffset": 7699
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "@AidenHatfield Up and down like the corona coaster, how's you dooing?!",
+        "beginOffset": 7730
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "🖤🤘#MusicForYourEveryMood #corona #zen #idk https://t.co/ZA8KBdqMnART @DonAdam68: Memang gelek bawaannya damai.",
+        "beginOffset": 7801
+      },
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": 0.8
+      }
+    },
+    {
+      "text": {
+        "content": "Berdamai dengan Corona lalu begelek bareng2.",
+        "beginOffset": 7919
+      },
+      "sentiment": {
+        "magnitude": 0.7,
+        "score": 0.7
+      }
+    },
+    {
+      "text": {
+        "content": "Cocok kan @rahung?",
+        "beginOffset": 7964
+      },
+      "sentiment": {
+        "magnitude": 0.5,
+        "score": 0.5
+      }
+    },
+    {
+      "text": {
+        "content": "Apa ini ide inovator 4.0 jug…",
+        "beginOffset": 7984
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "¡Feliz día de la madre!",
+        "beginOffset": 8015
+      },
+      "sentiment": {
+        "magnitude": 0.4,
+        "score": 0.4
+      }
+    },
+    {
+      "text": {
+        "content": "Diviértete y ámate el uno al otro",
+        "beginOffset": 8041
+      },
+      "sentiment": {
+        "magnitude": 0.3,
+        "score": 0.3
+      }
+    },
+    {
+      "text": {
+        "content": "#FelizDomingo #FelizDiadeLaMadre #MothersDay #Latino #SundayMorning #Corona #SundayMotivation #Seattle https://t.co/IVoXqWMKXYHappy Mother's Day - We love our Mom!",
+        "beginOffset": 8078
+      },
+      "sentiment": {
+        "magnitude": 0.4,
+        "score": 0.4
+      }
+    },
+    {
+      "text": {
+        "content": "❤️ Help keep them safe wherever you go today!",
+        "beginOffset": 8242
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "#MothersDay #Love #SundayMorning #sundayvibes #StaySafe #Moms #Stayhome #COVID19 #Corona #SundayMotivation #Seattle https://t.co/3w3R7TwLmDHappy Mother's Day to all Mom's everywhere ❤️ Let's help keep them safe!",
+        "beginOffset": 8293
+      },
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": 0.8
+      }
+    },
+    {
+      "text": {
+        "content": "#MothersDay #SundayMorning #sundayvibes #StaySafe #Moms #Stayhome #COVID19 #Corona #SundayMotivation https://t.co/YHoBo6aRIbI see victimpool are at it again.",
+        "beginOffset": 8510
+      },
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": 0.1
+      }
+    },
+    {
+      "text": {
+        "content": "3 Brighton players test positive for Corona and they’re making it all about them.",
+        "beginOffset": 8668
+      },
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": 0.1
+      }
+    },
+    {
+      "text": {
+        "content": "Dry your eyes mate...if so have you been working to corona situation?",
+        "beginOffset": 8752
+      },
+      "sentiment": {
+        "magnitude": 0.3,
+        "score": -0.3
+      }
+    },
+    {
+      "text": {
+        "content": "@JonnyBones https://t.co/szu0ddm2dR@elisegates96 It sucks, been doing a lot of pushups.",
+        "beginOffset": 8821
+      },
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": 0.2
+      }
+    },
+    {
+      "text": {
+        "content": "Thinking ab learning to read since I got so much free time now, we’ll see.This isn’t just corona virus related but more an observation on life in general- people like to over analyse anyone that puts themselves in a position of being on tv.",
+        "beginOffset": 8909
+      },
+      "sentiment": {
+        "magnitude": 0.6,
+        "score": 0.6
+      }
+    },
+    {
+      "text": {
+        "content": "I’m not the biggest fan of Boris but I think people think that as someone is on tv in any form that they are#Wuhan400 War is real with Corona bioterror weapon of mass destruction https://t.co/Ndo8JjEGSp@GOPChairwoman how about first winning #Wuhan400 War against China #CCP Corona bioterror weapon of mass destruction?",
+        "beginOffset": 9154
+      },
+      "sentiment": {
+        "magnitude": 0.3,
+        "score": -0.3
+      }
+    },
+    {
+      "text": {
+        "content": "So far, a limp timid weakling response @GOP @realDonaldTrump.",
+        "beginOffset": 9475
+      },
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": 0.1
+      }
+    },
+    {
+      "text": {
+        "content": "Time has passed to pull the Fortune 500 #supplychain from Red Army.If the conservatives win the next election after the corona shambles it will show the true stupidity of the public of this countryThe one thing corona couldn’t steal was the shine the mothers around the world are getting today!",
+        "beginOffset": 9537
+      },
+      "sentiment": {
+        "magnitude": 0.6,
+        "score": 0.6
+      }
+    },
+    {
+      "text": {
+        "content": "Mother’s Day is thriving.",
+        "beginOffset": 9834
+      },
+      "sentiment": {
+        "magnitude": 0.6,
+        "score": 0.6
+      }
+    },
+    {
+      "text": {
+        "content": "If you did lose your mom to the unfortunate circumstances we’re currently living through I sincerely bestow blessings upon your heart and hope for healing!",
+        "beginOffset": 9862
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "RT @stayfrea_: ALERT‼️‼️‼️",
+        "beginOffset": 10019
+      },
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": -0.1
+      }
+    },
+    {
+      "text": {
+        "content": "The corona virus can be spread through money.",
+        "beginOffset": 10058
+      },
+      "sentiment": {
+        "magnitude": 0.5,
+        "score": -0.5
+      }
+    },
+    {
+      "text": {
+        "content": "If you have any money at home, put on some gloves, put all the mon…",
+        "beginOffset": 10104
+      },
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": 0.2
+      }
+    },
+    {
+      "text": {
+        "content": "NY York is down hella bad due to this corona thing@Q13FOX I wouldn't snitch on my neighbor for what they choose to do.",
+        "beginOffset": 10173
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "Mainly because I don't care and it's none of my business.",
+        "beginOffset": 10293
+      },
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": 0.2
+      }
+    },
+    {
+      "text": {
+        "content": "If they want to defy, get Corona Virus and possibly die that's their choice.",
+        "beginOffset": 10352
+      },
+      "sentiment": {
+        "magnitude": 0.7,
+        "score": -0.7
+      }
+    },
+    {
+      "text": {
+        "content": "As long as it doesn't affect me or my loved ones then I'm good.@",
+        "beginOffset": 10430
+      },
+      "sentiment": {
+        "magnitude": 0.4,
+        "score": 0.4
+      }
+    },
+    {
+      "text": {
+        "content": "B52Malmet Hard to imagine how anyone would enjoy dining out where everywhere you look you see reminders - masks, dividers, servers wearing face shield - saying \"beware - lethal Corona virus may be lurking near you.\"@spicyxjen I thank god everyday for the privilege of being white and having clear skin@ArmzKorleone This is how you #SocialDistance 👑 #SundayMorning #COVID19 #StayHome #COVID #WeGotThis #IBS #100DaysOfCode #coronavirus #MothersDay #Mom #VH1 #motherday2020 #BlueBell #Biden #HPV #BREAKING #Corona #onceselcaday #earthquake #ObamaGate@louiesoul meu deus?",
+        "beginOffset": 10494
+      },
+      "sentiment": {
+        "magnitude": 0.7,
+        "score": -0.7
+      }
+    },
+    {
+      "text": {
+        "content": "qria mtt, eu ia ano que vem, mais o corona estragou tudo a@f0lake Nosey bitch deserved it tho c’monRT @DonAdam68: Memang gelek bawaannya damai.",
+        "beginOffset": 11065
+      },
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": -0.2
+      }
+    },
+    {
+      "text": {
+        "content": "Berdamai dengan Corona lalu begelek bareng2.",
+        "beginOffset": 11212
+      },
+      "sentiment": {
+        "magnitude": 0.7,
+        "score": 0.7
+      }
+    },
+    {
+      "text": {
+        "content": "Cocok kan @rahung?",
+        "beginOffset": 11257
+      },
+      "sentiment": {
+        "magnitude": 0.5,
+        "score": 0.5
+      }
+    },
+    {
+      "text": {
+        "content": "Apa ini ide inovator 4.0 jug…",
+        "beginOffset": 11277
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "You know in the horror movies when they give you a false sense of security before the jump scare.",
+        "beginOffset": 11308
+      },
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": -0.8
+      }
+    },
+    {
+      "text": {
+        "content": "Boris’ speech was the false sense of security, and the second wave of Corona is the jump scare.@tokkitata ME TOO 😭 I wish for one day Corona could go away just so I can see you all 😡Ja, wer ist denn da schon wieder in der Tagesschau!",
+        "beginOffset": 11406
+      },
+      "sentiment": {
+        "magnitude": 0.5,
+        "score": 0.5
+      }
+    },
+    {
+      "text": {
+        "content": "Danke, lieber Peter Dabrock (⁦@just_ethics⁩ ) für deinen unermüdlichen und wichtigen Einsatz in Sachen #Corona !",
+        "beginOffset": 11648
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "#FAUtrotztCorona  ⁦@FAU_Germany⁩ https://t.co/7xFkDVzLUpRT @urbane_mongrel: That time @NYMag asked @GuyKawasaki to contribute their cover story. #richdadpoordad ...",
+        "beginOffset": 11767
+      },
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": 0.1
+      }
+    },
+    {
+      "text": {
+        "content": "But on a serious note, this is…",
+        "beginOffset": 11936
+      },
+      "sentiment": {
+        "magnitude": 0.3,
+        "score": -0.3
+      }
+    },
+    {
+      "text": {
+        "content": "That time @NYMag asked @GuyKawasaki to contribute their cover story. #richdadpoordad ...",
+        "beginOffset": 11969
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "But on a serious note, this issue takes a good look at the very uneven economic/racial politics of #coronavirus #COVID19 https://t.co/0PQjJZe09D https://t.co/zju48HDP4w@Bfahrens @pablo_honey1 @realDonaldTrump Your body is what Corona craves.Trump: so if desinfectant destroys corona why not ingesting it\nPeople thinking that's a good idea: https://t.co/GvhQkwfBymNigerian Corona Distribution Company. https://t.co/xWhLF5pthtRT @manxcat419: @MarshalHolliday @mkhammer There's no vaccine for any human coronavirus.",
+        "beginOffset": 12058
+      },
+      "sentiment": {
+        "magnitude": 0.7,
+        "score": -0.7
+      }
+    },
+    {
+      "text": {
+        "content": "Currently we're 0 for 6 on corona vaccines.",
+        "beginOffset": 12572
+      },
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": -0.2
+      }
+    },
+    {
+      "text": {
+        "content": "Why…",
+        "beginOffset": 12617
+      },
+      "sentiment": {
+        "magnitude": 0.5,
+        "score": -0.5
+      }
+    },
+    {
+      "text": {
+        "content": "Corona virus parties???",
+        "beginOffset": 12623
+      },
+      "sentiment": {
+        "magnitude": 0.4,
+        "score": -0.4
+      }
+    },
+    {
+      "text": {
+        "content": "Recently heard rumors of parents with kids who have #COVID19 having \"Corona virus parties\" .",
+        "beginOffset": 12647
+      },
+      "sentiment": {
+        "magnitude": 0.6,
+        "score": -0.6
+      }
+    },
+    {
+      "text": {
+        "content": "The idea: expose your other friends children to the virus to develop antibodies.",
+        "beginOffset": 12741
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "Seems incredibly stupid!",
+        "beginOffset": 12822
+      },
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": -0.8
+      }
+    },
+    {
+      "text": {
+        "content": "@NightlyPolitics @maddow @morningmika @CDCgov@Dominic_Compoz @JpArgentino @ffsea4 @JoshuaPotash That’s their right to not let you in.",
+        "beginOffset": 12848
+      },
+      "sentiment": {
+        "magnitude": 0.6,
+        "score": -0.6
+      }
+    },
+    {
+      "text": {
+        "content": "And the last two of your tweet are just repeating what you said before.",
+        "beginOffset": 12984
+      },
+      "sentiment": {
+        "magnitude": 0.7,
+        "score": -0.7
+      }
+    },
+    {
+      "text": {
+        "content": "Corona can and has harmed people.@",
+        "beginOffset": 13056
+      },
+      "sentiment": {
+        "magnitude": 0.4,
+        "score": 0.4
+      }
+    },
+    {
+      "text": {
+        "content": "GCastello68 @GiuseppeConteIT Attento che ti è caduta la corona, principessa@cookiessoreo @subtanyarl Sebelll, yg kmrn gajadi sekarang kaga bisa😭😭😭 abis corona sih kudu😟This article is a very good explanation of how the Corona virus spreads.",
+        "beginOffset": 13090
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "It is an interesting and informative read.",
+        "beginOffset": 13344
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "https://t.co/mStCrxMk1v@nive2122 corona virus",
+        "beginOffset": 13388
+      },
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": -0.1
+      }
+    }
+  ]
+}

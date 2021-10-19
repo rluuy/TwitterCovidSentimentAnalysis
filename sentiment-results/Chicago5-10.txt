@@ -1,0 +1,1899 @@
+{
+  "documentSentiment": {
+    "magnitude": 16.6,
+    "score": 0
+  },
+  "language": "tr",
+  "sentences": [
+    {
+      "text": {
+        "content": "RT @aliyurtsever: Mesele çok ciddi!",
+        "beginOffset": 0
+      },
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": 0.1
+      }
+    },
+    {
+      "text": {
+        "content": "Silivri'den 8 kişi Corona'dan yoğun bakıma kaldırıldı. 191 kişiye de virüs bulaştı. 7 kişilik koğuşlard…RT",
+        "beginOffset": 37
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "@NinjaDoug5: @Corona_Bot__ Chuck Norris didn't get Corona, he wanted to teach it a quick lessonRT @aliyurtsever: Mesele çok ciddi!",
+        "beginOffset": 159
+      },
+      "sentiment": {
+        "magnitude": 0.3,
+        "score": -0.3
+      }
+    },
+    {
+      "text": {
+        "content": "Silivri'den 8 kişi Corona'dan yoğun bakıma kaldırıldı. 191 kişiye de virüs bulaştı. 7 kişilik koğuşlard…@barstoolsports Maybe these corona virus deaths for people under 30 have been inflated.RT @aliyurtsever: Mesele çok ciddi!",
+        "beginOffset": 291
+      },
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": -0.2
+      }
+    },
+    {
+      "text": {
+        "content": "Silivri'den 8 kişi Corona'dan yoğun bakıma kaldırıldı. 191 kişiye de virüs bulaştı. 7 kişilik koğuşlard…RT",
+        "beginOffset": 534
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "@aliyurtsever: Mesele çok ciddi!",
+        "beginOffset": 656
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "Silivri'den 8 kişi Corona'dan yoğun bakıma kaldırıldı. 191 kişiye de virüs bulaştı. 7 kişilik koğuşlard…RT",
+        "beginOffset": 690
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "@aliyurtsever: Mesele çok ciddi!",
+        "beginOffset": 812
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "Silivri'den 8 kişi Corona'dan yoğun bakıma kaldırıldı. 191 kişiye de virüs bulaştı. 7 kişilik koğuşlard…RT",
+        "beginOffset": 846
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "@aliyurtsever: Mesele çok ciddi!",
+        "beginOffset": 968
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "Silivri'den 8 kişi Corona'dan yoğun bakıma kaldırıldı. 191 kişiye de virüs bulaştı. 7 kişilik koğuşlard…RT",
+        "beginOffset": 1002
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "@aliyurtsever: Mesele çok ciddi!",
+        "beginOffset": 1124
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "Silivri'den 8 kişi Corona'dan yoğun bakıma kaldırıldı. 191 kişiye de virüs bulaştı. 7 kişilik koğuşlard…RT",
+        "beginOffset": 1158
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "@aliyurtsever: Mesele çok ciddi!",
+        "beginOffset": 1280
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "Silivri'den 8 kişi Corona'dan yoğun bakıma kaldırıldı. 191 kişiye de virüs bulaştı. 7 kişilik koğuşlard…RT",
+        "beginOffset": 1314
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "@aliyurtsever: Mesele çok ciddi!",
+        "beginOffset": 1436
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "Silivri'den 8 kişi Corona'dan yoğun bakıma kaldırıldı. 191 kişiye de virüs bulaştı. 7 kişilik koğuşlard…RT",
+        "beginOffset": 1470
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "@aliyurtsever: Mesele çok ciddi!",
+        "beginOffset": 1592
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "Silivri'den 8 kişi Corona'dan yoğun bakıma kaldırıldı. 191 kişiye de virüs bulaştı. 7 kişilik koğuşlard…RT",
+        "beginOffset": 1626
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "@aliyurtsever: Mesele çok ciddi!",
+        "beginOffset": 1748
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "Silivri'den 8 kişi Corona'dan yoğun bakıma kaldırıldı. 191 kişiye de virüs bulaştı. 7 kişilik koğuşlard…RT",
+        "beginOffset": 1782
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "@aliyurtsever: Mesele çok ciddi!",
+        "beginOffset": 1904
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "Silivri'den 8 kişi Corona'dan yoğun bakıma kaldırıldı. 191 kişiye de virüs bulaştı. 7 kişilik koğuşlard…RT",
+        "beginOffset": 1938
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "@aliyurtsever: Mesele çok ciddi!",
+        "beginOffset": 2060
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "Silivri'den 8 kişi Corona'dan yoğun bakıma kaldırıldı. 191 kişiye de virüs bulaştı. 7 kişilik koğuşlard…RT",
+        "beginOffset": 2094
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "@aliyurtsever: Mesele çok ciddi!",
+        "beginOffset": 2216
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "Silivri'den 8 kişi Corona'dan yoğun bakıma kaldırıldı. 191 kişiye de virüs bulaştı. 7 kişilik koğuşlard…RT",
+        "beginOffset": 2250
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "@aliyurtsever: Mesele çok ciddi!",
+        "beginOffset": 2372
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "Silivri'den 8 kişi Corona'dan yoğun bakıma kaldırıldı. 191 kişiye de virüs bulaştı. 7 kişilik koğuşlard…RT",
+        "beginOffset": 2406
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "@aliyurtsever: Mesele çok ciddi!",
+        "beginOffset": 2528
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "Silivri'den 8 kişi Corona'dan yoğun bakıma kaldırıldı. 191 kişiye de virüs bulaştı. 7 kişilik koğuşlard…RT",
+        "beginOffset": 2562
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "@aliyurtsever: Mesele çok ciddi!",
+        "beginOffset": 2684
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "Silivri'den 8 kişi Corona'dan yoğun bakıma kaldırıldı. 191 kişiye de virüs bulaştı. 7 kişilik koğuşlard…RT",
+        "beginOffset": 2718
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "@aliyurtsever: Mesele çok ciddi!",
+        "beginOffset": 2840
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "Silivri'den 8 kişi Corona'dan yoğun bakıma kaldırıldı. 191 kişiye de virüs bulaştı. 7 kişilik koğuşlard…RT",
+        "beginOffset": 2874
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "@aliyurtsever: Mesele çok ciddi!",
+        "beginOffset": 2996
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "Silivri'den 8 kişi Corona'dan yoğun bakıma kaldırıldı. 191 kişiye de virüs bulaştı. 7 kişilik koğuşlard…RT",
+        "beginOffset": 3030
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "@aliyurtsever: Mesele çok ciddi!",
+        "beginOffset": 3152
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "Silivri'den 8 kişi Corona'dan yoğun bakıma kaldırıldı. 191 kişiye de virüs bulaştı. 7 kişilik koğuşlard…RT",
+        "beginOffset": 3186
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "@aliyurtsever: Mesele çok ciddi!",
+        "beginOffset": 3308
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "Silivri'den 8 kişi Corona'dan yoğun bakıma kaldırıldı. 191 kişiye de virüs bulaştı. 7 kişilik koğuşlard…RT",
+        "beginOffset": 3342
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "@aliyurtsever: Mesele çok ciddi!",
+        "beginOffset": 3464
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "Silivri'den 8 kişi Corona'dan yoğun bakıma kaldırıldı. 191 kişiye de virüs bulaştı. 7 kişilik koğuşlard…RT",
+        "beginOffset": 3498
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "@aliyurtsever: Mesele çok ciddi!",
+        "beginOffset": 3620
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "Silivri'den 8 kişi Corona'dan yoğun bakıma kaldırıldı. 191 kişiye de virüs bulaştı. 7 kişilik koğuşlard…",
+        "beginOffset": 3654
+      },
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": -0.2
+      }
+    },
+    {
+      "text": {
+        "content": "Even the corona clock mbn🥺 https://t.co/LQSFmcCetGRT @aliyurtsever: Mesele çok ciddi!",
+        "beginOffset": 3773
+      },
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": 0.2
+      }
+    },
+    {
+      "text": {
+        "content": "Silivri'den 8 kişi Corona'dan yoğun bakıma kaldırıldı. 191 kişiye de virüs bulaştı. 7 kişilik koğuşlard…RT",
+        "beginOffset": 3863
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "@aliyurtsever: Mesele çok ciddi!",
+        "beginOffset": 3985
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "Silivri'den 8 kişi Corona'dan yoğun bakıma kaldırıldı. 191 kişiye de virüs bulaştı. 7 kişilik koğuşlard…RT",
+        "beginOffset": 4019
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "@aliyurtsever: Mesele çok ciddi!",
+        "beginOffset": 4141
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "Silivri'den 8 kişi Corona'dan yoğun bakıma kaldırıldı. 191 kişiye de virüs bulaştı. 7 kişilik koğuşlard…RT",
+        "beginOffset": 4175
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "@aliyurtsever: Mesele çok ciddi!",
+        "beginOffset": 4297
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "Silivri'den 8 kişi Corona'dan yoğun bakıma kaldırıldı. 191 kişiye de virüs bulaştı. 7 kişilik koğuşlard…RT",
+        "beginOffset": 4331
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "@aliyurtsever: Mesele çok ciddi!",
+        "beginOffset": 4453
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "Silivri'den 8 kişi Corona'dan yoğun bakıma kaldırıldı. 191 kişiye de virüs bulaştı. 7 kişilik koğuşlard…RT",
+        "beginOffset": 4487
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "@aliyurtsever: Mesele çok ciddi!",
+        "beginOffset": 4609
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "Silivri'den 8 kişi Corona'dan yoğun bakıma kaldırıldı. 191 kişiye de virüs bulaştı. 7 kişilik koğuşlard…RT",
+        "beginOffset": 4643
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "@aliyurtsever: Mesele çok ciddi!",
+        "beginOffset": 4765
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "Silivri'den 8 kişi Corona'dan yoğun bakıma kaldırıldı. 191 kişiye de virüs bulaştı. 7 kişilik koğuşlard…RT",
+        "beginOffset": 4799
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "@aliyurtsever: Mesele çok ciddi!",
+        "beginOffset": 4921
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "Silivri'den 8 kişi Corona'dan yoğun bakıma kaldırıldı. 191 kişiye de virüs bulaştı. 7 kişilik koğuşlard…RT",
+        "beginOffset": 4955
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "@aliyurtsever: Mesele çok ciddi!",
+        "beginOffset": 5077
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "Silivri'den 8 kişi Corona'dan yoğun bakıma kaldırıldı. 191 kişiye de virüs bulaştı. 7 kişilik koğuşlard…RT",
+        "beginOffset": 5111
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "@aliyurtsever: Mesele çok ciddi!",
+        "beginOffset": 5233
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "Silivri'den 8 kişi Corona'dan yoğun bakıma kaldırıldı. 191 kişiye de virüs bulaştı. 7 kişilik koğuşlard…RT",
+        "beginOffset": 5267
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "@aliyurtsever: Mesele çok ciddi!",
+        "beginOffset": 5389
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "Silivri'den 8 kişi Corona'dan yoğun bakıma kaldırıldı. 191 kişiye de virüs bulaştı. 7 kişilik koğuşlard…RT",
+        "beginOffset": 5423
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "@aliyurtsever: Mesele çok ciddi!",
+        "beginOffset": 5545
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "Silivri'den 8 kişi Corona'dan yoğun bakıma kaldırıldı. 191 kişiye de virüs bulaştı. 7 kişilik koğuşlard…RT",
+        "beginOffset": 5579
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "@aliyurtsever: Mesele çok ciddi!",
+        "beginOffset": 5701
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "Silivri'den 8 kişi Corona'dan yoğun bakıma kaldırıldı. 191 kişiye de virüs bulaştı. 7 kişilik koğuşlard…RT",
+        "beginOffset": 5735
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "@aliyurtsever: Mesele çok ciddi!",
+        "beginOffset": 5857
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "Silivri'den 8 kişi Corona'dan yoğun bakıma kaldırıldı. 191 kişiye de virüs bulaştı. 7 kişilik koğuşlard…RT",
+        "beginOffset": 5891
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "@aliyurtsever: Mesele çok ciddi!",
+        "beginOffset": 6013
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "Silivri'den 8 kişi Corona'dan yoğun bakıma kaldırıldı. 191 kişiye de virüs bulaştı. 7 kişilik koğuşlard…RT",
+        "beginOffset": 6047
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "@aliyurtsever: Mesele çok ciddi!",
+        "beginOffset": 6169
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "Silivri'den 8 kişi Corona'dan yoğun bakıma kaldırıldı. 191 kişiye de virüs bulaştı. 7 kişilik koğuşlard…RT",
+        "beginOffset": 6203
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "@aliyurtsever: Mesele çok ciddi!",
+        "beginOffset": 6325
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "Silivri'den 8 kişi Corona'dan yoğun bakıma kaldırıldı. 191 kişiye de virüs bulaştı. 7 kişilik koğuşlard…@jerdobrosky @Kelly_Olatunji @ariarmstrong @nick__puckett 3 kids passed away and they aren’t sure it was from corona virus.",
+        "beginOffset": 6359
+      },
+      "sentiment": {
+        "magnitude": 0.3,
+        "score": -0.3
+      }
+    },
+    {
+      "text": {
+        "content": "It was reported 2 kids in Cali died when this first started and the autopsy proved otherwise!",
+        "beginOffset": 6604
+      },
+      "sentiment": {
+        "magnitude": 0.3,
+        "score": -0.3
+      }
+    },
+    {
+      "text": {
+        "content": "RT @aliyurtsever: Mesele çok ciddi!",
+        "beginOffset": 6697
+      },
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": 0.1
+      }
+    },
+    {
+      "text": {
+        "content": "Silivri'den 8 kişi Corona'dan yoğun bakıma kaldırıldı. 191 kişiye de virüs bulaştı. 7 kişilik koğuşlard…RT",
+        "beginOffset": 6734
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "@aliyurtsever: Mesele çok ciddi!",
+        "beginOffset": 6856
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "Silivri'den 8 kişi Corona'dan yoğun bakıma kaldırıldı. 191 kişiye de virüs bulaştı. 7 kişilik koğuşlard…RT",
+        "beginOffset": 6890
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "@aliyurtsever: Mesele çok ciddi!",
+        "beginOffset": 7012
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "Silivri'den 8 kişi Corona'dan yoğun bakıma kaldırıldı. 191 kişiye de virüs bulaştı. 7 kişilik koğuşlard…RT",
+        "beginOffset": 7046
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "@aliyurtsever: Mesele çok ciddi!",
+        "beginOffset": 7168
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "Silivri'den 8 kişi Corona'dan yoğun bakıma kaldırıldı. 191 kişiye de virüs bulaştı. 7 kişilik koğuşlard…RT",
+        "beginOffset": 7202
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "@aliyurtsever: Mesele çok ciddi!",
+        "beginOffset": 7324
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "Silivri'den 8 kişi Corona'dan yoğun bakıma kaldırıldı. 191 kişiye de virüs bulaştı. 7 kişilik koğuşlard…RT",
+        "beginOffset": 7358
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "@aliyurtsever: Mesele çok ciddi!",
+        "beginOffset": 7480
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "Silivri'den 8 kişi Corona'dan yoğun bakıma kaldırıldı. 191 kişiye de virüs bulaştı. 7 kişilik koğuşlard…RT",
+        "beginOffset": 7514
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "@aliyurtsever: Mesele çok ciddi!",
+        "beginOffset": 7636
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "Silivri'den 8 kişi Corona'dan yoğun bakıma kaldırıldı. 191 kişiye de virüs bulaştı. 7 kişilik koğuşlard…RT",
+        "beginOffset": 7670
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "@aliyurtsever: Mesele çok ciddi!",
+        "beginOffset": 7792
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "Silivri'den 8 kişi Corona'dan yoğun bakıma kaldırıldı. 191 kişiye de virüs bulaştı. 7 kişilik koğuşlard…RT",
+        "beginOffset": 7826
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "@aliyurtsever: Mesele çok ciddi!",
+        "beginOffset": 7948
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "Silivri'den 8 kişi Corona'dan yoğun bakıma kaldırıldı. 191 kişiye de virüs bulaştı. 7 kişilik koğuşlard…RT",
+        "beginOffset": 7982
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "@aliyurtsever: Mesele çok ciddi!",
+        "beginOffset": 8104
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "Silivri'den 8 kişi Corona'dan yoğun bakıma kaldırıldı. 191 kişiye de virüs bulaştı. 7 kişilik koğuşlard…RT",
+        "beginOffset": 8138
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "@edwinhollins: @FriendEden100 You don't do mom a favor by exposing her to corona.RT @aliyurtsever: Mesele çok ciddi!",
+        "beginOffset": 8260
+      },
+      "sentiment": {
+        "magnitude": 0.3,
+        "score": -0.3
+      }
+    },
+    {
+      "text": {
+        "content": "Silivri'den 8 kişi Corona'dan yoğun bakıma kaldırıldı. 191 kişiye de virüs bulaştı. 7 kişilik koğuşlard…RT",
+        "beginOffset": 8378
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "@aliyurtsever: Mesele çok ciddi!",
+        "beginOffset": 8500
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "Silivri'den 8 kişi Corona'dan yoğun bakıma kaldırıldı. 191 kişiye de virüs bulaştı. 7 kişilik koğuşlard…RT",
+        "beginOffset": 8534
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "@aliyurtsever: Mesele çok ciddi!",
+        "beginOffset": 8656
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "Silivri'den 8 kişi Corona'dan yoğun bakıma kaldırıldı. 191 kişiye de virüs bulaştı. 7 kişilik koğuşlard…RT",
+        "beginOffset": 8690
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "@aliyurtsever: Mesele çok ciddi!",
+        "beginOffset": 8812
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "Silivri'den 8 kişi Corona'dan yoğun bakıma kaldırıldı. 191 kişiye de virüs bulaştı. 7 kişilik koğuşlard…RT",
+        "beginOffset": 8846
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "@aliyurtsever: Mesele çok ciddi!",
+        "beginOffset": 8968
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "Silivri'den 8 kişi Corona'dan yoğun bakıma kaldırıldı. 191 kişiye de virüs bulaştı. 7 kişilik koğuşlard…RT",
+        "beginOffset": 9002
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "@aliyurtsever: Mesele çok ciddi!",
+        "beginOffset": 9124
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "Silivri'den 8 kişi Corona'dan yoğun bakıma kaldırıldı. 191 kişiye de virüs bulaştı. 7 kişilik koğuşlard…RT",
+        "beginOffset": 9158
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "@aliyurtsever: Mesele çok ciddi!",
+        "beginOffset": 9280
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "Silivri'den 8 kişi Corona'dan yoğun bakıma kaldırıldı. 191 kişiye de virüs bulaştı. 7 kişilik koğuşlard…RT",
+        "beginOffset": 9314
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "@aliyurtsever: Mesele çok ciddi!",
+        "beginOffset": 9436
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "Silivri'den 8 kişi Corona'dan yoğun bakıma kaldırıldı. 191 kişiye de virüs bulaştı. 7 kişilik koğuşlard…RT",
+        "beginOffset": 9470
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "@aliyurtsever: Mesele çok ciddi!",
+        "beginOffset": 9592
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "Silivri'den 8 kişi Corona'dan yoğun bakıma kaldırıldı. 191 kişiye de virüs bulaştı. 7 kişilik koğuşlard…RT",
+        "beginOffset": 9626
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "@aliyurtsever: Mesele çok ciddi!",
+        "beginOffset": 9748
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "Silivri'den 8 kişi Corona'dan yoğun bakıma kaldırıldı. 191 kişiye de virüs bulaştı. 7 kişilik koğuşlard…RT",
+        "beginOffset": 9782
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "@aliyurtsever: Mesele çok ciddi!",
+        "beginOffset": 9904
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "Silivri'den 8 kişi Corona'dan yoğun bakıma kaldırıldı. 191 kişiye de virüs bulaştı. 7 kişilik koğuşlard…RT",
+        "beginOffset": 9938
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "@aliyurtsever: Mesele çok ciddi!",
+        "beginOffset": 10060
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "Silivri'den 8 kişi Corona'dan yoğun bakıma kaldırıldı. 191 kişiye de virüs bulaştı. 7 kişilik koğuşlard…RT",
+        "beginOffset": 10094
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "@aliyurtsever: Mesele çok ciddi!",
+        "beginOffset": 10216
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "Silivri'den 8 kişi Corona'dan yoğun bakıma kaldırıldı. 191 kişiye de virüs bulaştı. 7 kişilik koğuşlard…RT",
+        "beginOffset": 10250
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "@aliyurtsever: Mesele çok ciddi!",
+        "beginOffset": 10372
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "Silivri'den 8 kişi Corona'dan yoğun bakıma kaldırıldı. 191 kişiye de virüs bulaştı. 7 kişilik koğuşlard…RT",
+        "beginOffset": 10406
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "@aliyurtsever: Mesele çok ciddi!",
+        "beginOffset": 10528
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "Silivri'den 8 kişi Corona'dan yoğun bakıma kaldırıldı. 191 kişiye de virüs bulaştı. 7 kişilik koğuşlard…RT",
+        "beginOffset": 10562
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "@aliyurtsever: Mesele çok ciddi!",
+        "beginOffset": 10684
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "Silivri'den 8 kişi Corona'dan yoğun bakıma kaldırıldı. 191 kişiye de virüs bulaştı. 7 kişilik koğuşlard…RT",
+        "beginOffset": 10718
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "@aliyurtsever: Mesele çok ciddi!",
+        "beginOffset": 10840
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "Silivri'den 8 kişi Corona'dan yoğun bakıma kaldırıldı. 191 kişiye de virüs bulaştı. 7 kişilik koğuşlard…RT",
+        "beginOffset": 10874
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "@aliyurtsever: Mesele çok ciddi!",
+        "beginOffset": 10996
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "Silivri'den 8 kişi Corona'dan yoğun bakıma kaldırıldı. 191 kişiye de virüs bulaştı. 7 kişilik koğuşlard…RT",
+        "beginOffset": 11030
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "@aliyurtsever: Mesele çok ciddi!",
+        "beginOffset": 11152
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "Silivri'den 8 kişi Corona'dan yoğun bakıma kaldırıldı. 191 kişiye de virüs bulaştı. 7 kişilik koğuşlard…RT",
+        "beginOffset": 11186
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "@aliyurtsever: Mesele çok ciddi!",
+        "beginOffset": 11308
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "Silivri'den 8 kişi Corona'dan yoğun bakıma kaldırıldı. 191 kişiye de virüs bulaştı. 7 kişilik koğuşlard…RT",
+        "beginOffset": 11342
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "@aliyurtsever: Mesele çok ciddi!",
+        "beginOffset": 11464
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "Silivri'den 8 kişi Corona'dan yoğun bakıma kaldırıldı. 191 kişiye de virüs bulaştı. 7 kişilik koğuşlard…RT",
+        "beginOffset": 11498
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "@aliyurtsever: Mesele çok ciddi!",
+        "beginOffset": 11620
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "Silivri'den 8 kişi Corona'dan yoğun bakıma kaldırıldı. 191 kişiye de virüs bulaştı. 7 kişilik koğuşlard…RT",
+        "beginOffset": 11654
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "@aliyurtsever: Mesele çok ciddi!",
+        "beginOffset": 11776
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "Silivri'den 8 kişi Corona'dan yoğun bakıma kaldırıldı. 191 kişiye de virüs bulaştı. 7 kişilik koğuşlard…RT",
+        "beginOffset": 11810
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "@aliyurtsever: Mesele çok ciddi!",
+        "beginOffset": 11932
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "Silivri'den 8 kişi Corona'dan yoğun bakıma kaldırıldı. 191 kişiye de virüs bulaştı. 7 kişilik koğuşlard…RT",
+        "beginOffset": 11966
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "@aliyurtsever: Mesele çok ciddi!",
+        "beginOffset": 12088
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "Silivri'den 8 kişi Corona'dan yoğun bakıma kaldırıldı. 191 kişiye de virüs bulaştı. 7 kişilik koğuşlard…RT",
+        "beginOffset": 12122
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "@aliyurtsever: Mesele çok ciddi!",
+        "beginOffset": 12244
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "Silivri'den 8 kişi Corona'dan yoğun bakıma kaldırıldı. 191 kişiye de virüs bulaştı. 7 kişilik koğuşlard…RT",
+        "beginOffset": 12278
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "@aliyurtsever: Mesele çok ciddi!",
+        "beginOffset": 12400
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "Silivri'den 8 kişi Corona'dan yoğun bakıma kaldırıldı. 191 kişiye de virüs bulaştı. 7 kişilik koğuşlard…RT",
+        "beginOffset": 12434
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "@MaxwelMurphey: @TeniEntertainer and @officialzuchu Who’s the Best Female in Africa #Tenientertainer #zuchu #Tanzania #westafrica #EastA…RT",
+        "beginOffset": 12556
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "@aliyurtsever: Mesele çok ciddi!",
+        "beginOffset": 12700
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "Silivri'den 8 kişi Corona'dan yoğun bakıma kaldırıldı. 191 kişiye de virüs bulaştı. 7 kişilik koğuşlard…RT",
+        "beginOffset": 12734
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "@aliyurtsever: Mesele çok ciddi!",
+        "beginOffset": 12856
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "Silivri'den 8 kişi Corona'dan yoğun bakıma kaldırıldı. 191 kişiye de virüs bulaştı. 7 kişilik koğuşlard…RT",
+        "beginOffset": 12890
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "@aliyurtsever: Mesele çok ciddi!",
+        "beginOffset": 13012
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "Silivri'den 8 kişi Corona'dan yoğun bakıma kaldırıldı. 191 kişiye de virüs bulaştı. 7 kişilik koğuşlard…RT",
+        "beginOffset": 13046
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "@aliyurtsever: Mesele çok ciddi!",
+        "beginOffset": 13168
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "Silivri'den 8 kişi Corona'dan yoğun bakıma kaldırıldı. 191 kişiye de virüs bulaştı. 7 kişilik koğuşlard…RT",
+        "beginOffset": 13202
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "@aliyurtsever: Mesele çok ciddi!",
+        "beginOffset": 13324
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "Silivri'den 8 kişi Corona'dan yoğun bakıma kaldırıldı. 191 kişiye de virüs bulaştı. 7 kişilik koğuşlard…RT",
+        "beginOffset": 13358
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "@aliyurtsever: Mesele çok ciddi!",
+        "beginOffset": 13480
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "Silivri'den 8 kişi Corona'dan yoğun bakıma kaldırıldı. 191 kişiye de virüs bulaştı. 7 kişilik koğuşlard…RT",
+        "beginOffset": 13514
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "@aliyurtsever: Mesele çok ciddi!",
+        "beginOffset": 13636
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "Silivri'den 8 kişi Corona'dan yoğun bakıma kaldırıldı. 191 kişiye de virüs bulaştı. 7 kişilik koğuşlard…RT",
+        "beginOffset": 13670
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "@aliyurtsever: Mesele çok ciddi!",
+        "beginOffset": 13792
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "Silivri'den 8 kişi Corona'dan yoğun bakıma kaldırıldı. 191 kişiye de virüs bulaştı. 7 kişilik koğuşlard…RT",
+        "beginOffset": 13826
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "@aliyurtsever: Mesele çok ciddi!",
+        "beginOffset": 13948
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "Silivri'den 8 kişi Corona'dan yoğun bakıma kaldırıldı. 191 kişiye de virüs bulaştı. 7 kişilik koğuşlard…RT",
+        "beginOffset": 13982
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "@aliyurtsever: Mesele çok ciddi!",
+        "beginOffset": 14104
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "Silivri'den 8 kişi Corona'dan yoğun bakıma kaldırıldı. 191 kişiye de virüs bulaştı. 7 kişilik koğuşlard…RT",
+        "beginOffset": 14138
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "@aliyurtsever: Mesele çok ciddi!",
+        "beginOffset": 14260
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "Silivri'den 8 kişi Corona'dan yoğun bakıma kaldırıldı. 191 kişiye de virüs bulaştı. 7 kişilik koğuşlard…RT",
+        "beginOffset": 14294
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "@aliyurtsever: Mesele çok ciddi!",
+        "beginOffset": 14416
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "Silivri'den 8 kişi Corona'dan yoğun bakıma kaldırıldı. 191 kişiye de virüs bulaştı. 7 kişilik koğuşlard…RT",
+        "beginOffset": 14450
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "@aliyurtsever: Mesele çok ciddi!",
+        "beginOffset": 14572
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "Silivri'den 8 kişi Corona'dan yoğun bakıma kaldırıldı. 191 kişiye de virüs bulaştı. 7 kişilik koğuşlard…RT",
+        "beginOffset": 14606
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "@aliyurtsever: Mesele çok ciddi!",
+        "beginOffset": 14728
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "Silivri'den 8 kişi Corona'dan yoğun bakıma kaldırıldı. 191 kişiye de virüs bulaştı. 7 kişilik koğuşlard…RT",
+        "beginOffset": 14762
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "@aliyurtsever: Mesele çok ciddi!",
+        "beginOffset": 14884
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "Silivri'den 8 kişi Corona'dan yoğun bakıma kaldırıldı. 191 kişiye de virüs bulaştı. 7 kişilik koğuşlard…RT",
+        "beginOffset": 14918
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "@aliyurtsever: Mesele çok ciddi!",
+        "beginOffset": 15040
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "Silivri'den 8 kişi Corona'dan yoğun bakıma kaldırıldı. 191 kişiye de virüs bulaştı. 7 kişilik koğuşlard…RT",
+        "beginOffset": 15074
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "@aliyurtsever: Mesele çok ciddi!",
+        "beginOffset": 15196
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "Silivri'den 8 kişi Corona'dan yoğun bakıma kaldırıldı. 191 kişiye de virüs bulaştı. 7 kişilik koğuşlard…",
+        "beginOffset": 15230
+      },
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": -0.2
+      }
+    }
+  ]
+}
